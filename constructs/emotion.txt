@@ -1,0 +1,4821 @@
+// Reference=MNI
+// Bystritsky A, 2001: Severe vs. Neutral Anxiety, Normal  Volunteers
+// Subjects=6
+-39.45	-37.83	-9.36
+7.57	-37.55	-9.93
+16.02	-20.92	-15.88
+-41.85	23.15	-18.91
+
+// Ueda K, 2003: Expected vs. Unexpected, Pleasant
+// Subjects=15
+-43.88	13.44	34.05
+19.22	-90.7	-38.52
+-9.15	27.88	48.84
+
+// Ueda K, 2003: Expected vs. Unexpected, Neutral
+// Subjects=15
+-27.22	-57.47	55.35
+-47.34	29.3	20.21
+-50.64	18.99	13.45
+
+// Ueda K, 2003: Expected vs. Unexpected, Unpleasant
+// Subjects=15
+32.14	23.93	-18.71
+32.22	-7.23	-18.99
+42.48	-66.59	11.36
+-39.62	-77.83	10.51
+-7.7	45.55	-3.36
+4.22	58.98	1.83
+14.45	-85.94	12.64
+-13.34	88.62	-13.13
+
+// Damasio A R, 2000: Sadness - Neutral
+// Subjects=41
+2.09	-44.41	-29.36
+18.21	-26.91	-10.94
+-3.07	-39.3	-4.08
+1.16	-21.04	-2.32
+45.88	23.64	-6.58
+39.66	2.51	9.76
+38.56	13.25	11.11
+-36.44	12.86	-14.76
+-37.28	0.99	10.77
+9.5	28.46	-9.91
+-4.36	39.72	-.66
+8.98	-55.95	27.29
+-6.57	18.07	-18.89
+-.28	43.14	-25.53
+14.95	0.99	-7.67
+-20.35	0.44	-11.68
+
+// Damasio A R, 2000: Happiness - Neutral
+// Subjects=41
+0.1	-28.62	-3.9
+13.94	-12.59	-4.29
+-16.05	-10.28	-13.06
+25.01	10.04	-84.38
+32.13	20.7	11.67
+10.47	38.44	-18.56
+5.26	43.03	0.07
+-6.48	25.53	-5.02
+-0.06	42.2	3.55
+10.93	-41.36	9.31
+12.1	-55.73	16.08
+1.52	-51.42	31.45
+47.3	-24.25	20.84
+-11.77	-.31	-8.37
+
+// Damasio A R, 2000: Anger - Neutral
+// Subjects=41
+11.74	-38.55	-23.27
+-1.04	-30.54	-14.88
+16.11	-21.03	-3.6
+-9.54	-25.67	-6.27
+-5.3	-8.39	-3.3
+39.52	13.2	-3.4
+-38.54	14.33	-9.29
+-42.62	-1.24	9.91
+1.87	2.66	-40
+-4.33	38.92	2.76
+-11.46	1.89	33.82
+-7.07	-32.09	34.39
+-7.07	-32.09	34.39
+
+// Damasio A R, 2000: Fear - Neutral
+// Subjects=41
+14.96	-25.24	-16.62
+36.38	5.07	1.78
+40.91	-9.86	28.63
+
+// Dougherty D D, 1999: Anger vs. Neutral Script
+// Subjects=8
+-38.18	25.18	-24.36
+-46.63	20.02	-10.25
+20.62	39.76	13.54
+-50.85	-5.52	-7.66
+50.42	8.06	-28.65
+-37.19	-6.87	46.03
+-29.17	49.81	8.91
+0.75	62.73	-15.29
+0.86	-56.76	-30.36
+
+// Gemar M C, 1996: Sad Mood - Rest
+// Subjects=11
+-9.39	25.34	34.06
+
+// George M S, 1995: Sadness > Neutral
+// Subjects=11
+3.14	48.73	5.19
+-14	32.8	-6.66
+28.76	11.22	-14.26
+1.06	14.2	-.81
+-14.02	19.43	-14.46
+-18.01	-10.61	10.41
+
+// George M S, 1995: Sadness > Happiness
+// Subjects=11
+22.37	40.05	1.24
+20.21	11.17	-14.16
+
+// George M S, 1995: Happiness > Sadness
+// Subjects=11
+-19.88	-73.72	20.19
+-41.38	-84.02	-1.01
+-22.05	-100.48	4.61
+24.94	-91.74	3.34
+-11.3	-99.73	13.35
+
+// George M S, 1996: Sad - Neutral in Women
+// Subjects=10
+1.03	40.26	5.93
+3.14	48.73	5.19
+-14.02	37.03	-7.01
+-11.89	12.75	-18.38
+-9.75	19.45	-14.51
+24.48	11.2	-14.21
+7.51	14.58	3.54
+-1.06	9.96	-.43
+-18.29	17.29	-14.23
+18.19	-2.96	-4.03
+-15.87	-10.6	10.39
+-17.95	-16.61	15.37
+7.52	1.55	0.18
+-37.22	29.06	29.61
+-3.11	52.52	27.25
+-7.47	56.04	18.08
+-26.54	2.72	18.31
+-43.82	13.93	-.27
+-5.23	-46.08	-9.06
+
+// George M S, 1996: Happy - Neutral in Women
+// Subjects=10
+14	2.27	8.96
+-3.35	32.52	-11.22
+-5.54	38.51	-16.16
+-1.14	42.02	1.34
+
+// George M S, 1996: Sad - Happy in Women
+// Subjects=10
+22.37	13.64	-9.93
+7.51	23.38	7.27
+-18.27	13.06	-13.87
+13.86	29.42	2.23
+22.38	37.93	1.42
+16.36	-30.52	25.07
+-43.82	13.93	-.27
+-45.95	20.61	3.65
+-39.32	18.47	30.52
+-39.35	26.93	29.81
+22.14	46.45	-26.06
+
+// George M S, 1996: Sad - Neutral in Men
+// Subjects=10
+11.79	21.29	7.39
+-28.69	-12.79	10.72
+-35.39	10.5	-17.92
+14.21	-63.63	10.03
+12.05	-57.3	9.52
+
+// George M S, 1996: Happy - Neutral in Men
+// Subjects=10
+16.27	-5.15	22.94
+-26.55	-12.77	10.69
+-1.08	62.43	17.47
+3.22	53.99	18.13
+
+// George M S, 1996: Sad - Happy in Men
+// Subjects=10
+31.05	-13.46	-3.3
+29.15	-57.19	9.32
+
+// Kimbrell T A, 1999: Anxious vs. Neutral
+// Subjects=18
+-48.19	12.88	-13.52
+-15.97	25.7	11.8
+-34.34	13.68	-18.2
+-1.68	-82.07	20.68
+16.18	37.84	28.26
+46.4	-33.55	38.36
+47.97	44.09	-3.86
+-.99	-9.08	1.17
+37.69	19.62	38.46
+
+// Kimbrell T A, 1999: Anger vs. Neutral
+// Subjects=18
+7.73	-35.83	12.23
+45.76	16.99	-23.86
+-48.24	7.96	-22.02
+-20.49	36.31	-15.8
+52.5	-14.76	5.49
+52.44	37.37	18.96
+41.93	17.18	34.16
+
+// Kimbrell T A, 1999: Anxious vs. Anger
+// Subjects=18
+-43.45	-85.47	8.06
+-17.68	-79.71	25.12
+16.37	-67.85	10.36
+-41.54	-24.12	2.89
+-1.01	-20.34	-6.81
+37.26	23.96	-15.43
+14.06	31.48	28.82
+-37.42	-19.12	-15.42
+-9.48	2.47	13.68
+
+// Lane R D, 1997: Happiness During Film & Recall
+// Subjects=12
+9.64	51.92	18.23
+-3.19	53.95	18.21
+-9.25	-3.93	40.98
+52.6	-40.14	7.62
+-41.33	-52.7	18.67
+43.52	18.06	-37.31
+-35.45	7.7	-26.61
+-5.32	-3.1	-3.75
+
+// Lane R D, 1997: Sadness During Film & Recall
+// Subjects=12
+-1	50.08	22.97
+14.05	-28.02	2.58
+-9.47	-26.05	2.69
+-52.09	-60.14	6.03
+39.34	10.26	-27.68
+-32.94	9.36	22.29
+7.47	-12.17	-12.05
+24.6	-55.73	-26.44
+3.26	-57.63	-21.58
+13.91	-9.67	-7.88
+-9.56	-20.39	-6.71
+24.54	5.2	-9.25
+-22.48	4.91	-8.68
+-9.58	3.56	0.2
+
+// Lane R D, 1997: Disgust During Film & Recall
+// Subjects=12
+-3.11	52.52	27.25
+9.69	-15.7	-2.86
+-3.08	-19.66	2.08
+47.83	18.43	-32.93
+-35.49	9.47	-31.22
+11.78	-11.8	-7.67
+
+// Lane R D, 1997: Internal - External
+// Subjects=10
+0	50	16
+42	8	-30
+-46	14	6
+-8	10	-8
+
+// Lane R D, 1997: External - Internal
+// Subjects=10
+-40	74	28
+44	-70	-30
+
+// Liberzon I, 2000: Rating Phase Increases
+// Subjects=10
+-53.24	13.73	25.5
+-5.31	-5.21	-3.57
+2.06	-8.48	-18.99
+
+// Liotti M, 2000: Sadness > Neutral
+// Subjects=8
+37.65	-20.34	17.28
+-23.42	3.99	7.02
+-1.19	32.71	-9.03
+-52.36	-60.77	-29.6
+14.05	-56.54	-8.41
+54.87	-3.54	40.21
+63.18	0.62	10.77
+
+// Liotti M, 2000: Anxiety > Neutral
+// Subjects=8
+-24.7	4.04	-19.74
+48.01	17.05	-9.39
+54.56	-3.46	0.06
+43.09	-12.67	33.3
+-45.49	-14.21	48.95
+-30.54	-18.6	45.8
+3.64	1.23	51.55
+-.58	-13.68	51.73
+22.51	-53.03	-18.84
+-9.46	-83.09	-19.3
+8.68	-41.43	-5.15
+0.31	-72.6	5.36
+-8.15	-71.71	17.65
+
+// Mayberg H S, 1999: Sad Mood vs. Neutral Mood and Rest, Increases, Normals
+// Subjects=8
+0.97	24.26	-8.34
+35.16	26.58	-8.93
+-29	34.48	-11.09
+37.45	12.82	5.58
+-30.91	3.95	7.11
+35.53	-20.18	19.52
+-37.18	-14.44	17.64
+
+// Pardo J V, 1993: Self-Induced Dysphoria -  Control
+// Subjects=7
+-45.02	35.62	-8.77
+-10.7	61.31	17.68
+-28.04	63.04	-13.49
+-10.82	71.03	5.71
+-40.77	28.78	-14.93
+55.36	42.05	-17.15
+-23.75	63.24	-11.33
+-19.22	62.57	21.02
+55.36	46.45	-15.29
+-49.32	37.53	-11.11
+-8.57	65.55	17.3
+-8.71	72.98	3.29
+-1.85	35.93	46.47
+
+// Rauch S L, 1999: Sexual Arousal - Neutral
+// Subjects=8
+13.97	37.14	19.42
+-41.9	18.23	-27.42
+26.79	-15.6	-3.07
+-1.04	-40.4	-18.51
+-30.93	-11.71	-2.73
+
+// Rauch S L, 1999: Competitive Arousal - Neutral
+// Subjects=8
+5.5	26.86	24.84
+-50.48	15.72	-31.57
+24.65	-15.61	-3.04
+-39.1	-12.22	46.48
+
+// Reiman E M, 1997: Film-Generated Emotion minus Film-Control
+// Subjects=12
+1.11	56.44	22.41
+-5.28	-13.67	-2.86
+11.84	-17.8	-2.71
+-47.77	-53.08	14.32
+52.6	-42.25	7.79
+-35.4	3.81	-21.82
+45.75	10.3	-27.76
+-24.65	-4.24	-16.81
+18.09	-3.99	-17.32
+1	-6.2	-16.94
+3.26	-20.31	-6.86
+-39.4	-70.23	-15.57
+37.45	-55.31	-22.16
+
+// Reiman E M, 1997: Recall-Generated Emotion minus Recall-Control
+// Subjects=12
+3.28	47.99	23.1
+-15.93	-22.2	-2.02
+18.25	-17.76	-2.79
+-35.33	19.98	-5.34
+48.04	16.25	-5.98
+-46.14	16.43	-22.76
+47.91	23.68	-19.99
+
+// Reiman E M, 1997: Film-Generated Emotion minus Recall-Generated Emotion
+// Subjects=12
+-39.28	-75.55	-1.74
+54.7	-60.18	-4.11
+-31.16	3.49	-26.31
+39.35	8.14	-27.51
+-28.97	-2.5	-21.37
+24.47	-4.29	-21.83
+-33.23	-13.44	-24.86
+37.33	-12.67	-21.28
+0.99	-4.09	-17.12
+-35.29	-45.52	-26.61
+39.52	-45.07	-27.51
+
+// Shin L M, 2000: Guilt - Neutral
+// Subjects=8
+48.23	3.39	-32.64
+50.3	11.49	-37.96
+-46.86	20.48	-28.23
+14.2	40.16	18.09
+-46.62	17.89	-10.04
+-13.43	-4.66	45.41
+22.52	-54.14	-26.51
+-32.86	-8.98	46.17
+
+// Teasdale J D, 1999: Negative vs. Reference
+// Subjects=6
+1.14	44.63	21.17
+4.62	7.96	42.05
+7.5	44.16	14.45
+4.39	36.37	24.06
+1.17	-13.29	1.49
+10.86	-33.33	3.06
+35.35	41.67	21.03
+
+// Teasdale J D, 1999: Positive vs. Reference
+// Subjects=6
+53.59	21.69	22.49
+43.92	-16.21	1.25
+-39.47	-5.08	1.27
+-1.94	-27.69	8.31
+-11.12	-68.27	48.62
+-5.19	-3.93	13.05
+
+// Teasdale J D, 1999: Positive vs. Negative
+// Subjects=6
+-16.83	-8.34	25.82
+0.99	58.5	7.74
+-2.16	55.73	13.59
+4.72	5.73	54.5
+59.89	10.75	4.38
+1.04	46.86	8.72
+4.62	7.96	42.05
+
+// Royet J P, 2000: Emotional - Neutral, Audition
+// Subjects=12
+-16	44	58
+-44	14	-24
+
+// Royet J P, 2000: Emotional - Neutral, Olfaction
+// Subjects=12
+-24	30	-8
+-6	-2	-6
+28	26	-14
+60	22	34
+
+// Royet J P, 2000: Emotional - Neutral, Vision
+// Subjects=12
+-4	10	-4
+-6	52	28
+-34	18	-24
+
+// Royet J P, 2000: Conjunction Analysis, Emotional - Neutral
+// Subjects=12
+-30	10	-26
+-30	18	-12
+-6	50	30
+26	30	-12
+
+// Royet J P, 2000: Emotional Olfaction - No Stimulus (Control)
+// Subjects=12
+-22	0	-12
+34	4	-14
+4	-46	-14
+
+// Simpson J R, 2000: Negatively - Neutrally  Valenced Pictures, Main Effect 
+// Subjects=18
+40.7	-58.12	-17.5
+-29.8	-60.49	-14.27
+25.85	-74.62	-9.26
+-23.29	-81.43	-10.35
+-42.6	-29.59	1.13
+-29.47	-89.98	17.2
+30.55	-54.82	53.71
+-8.15	-97.06	6.4
+34.2	20.03	2.78
+-8.17	8.22	46.64
+19.72	-98.15	17.32
+-19.08	-33.68	1.21
+-32.05	19.63	3.58
+47.28	7.36	30.46
+34.65	-80.8	20.15
+4.51	22.25	34.16
+-20.77	-70.79	44.48
+8.62	-27.85	-8.52
+-32.05	-35.3	-18.58
+-29.32	-51.12	51.86
+36.36	-36.83	-17.01
+23.46	-6.96	-14.91
+-21.41	-9.34	-14.19
+41.05	0.4	51.19
+-46.77	4.51	29.55
+-46.91	-7.95	6.06
+-57.32	-27.11	34.55
+-6.22	-52.98	-1.78
+21.53	-11.43	10.03
+-19.38	-49.96	-44.26
+-6.49	-31.6	-28.11
+9.12	-75.35	37.83
+44.97	-1.06	4.43
+32.17	47.45	27.27
+-10.22	-28.26	43.03
+-28.04	63.04	-13.49
+4.29	-63.6	-30.01
+9.1	7.92	68.77
+-3.5	-64.57	68.3
+25.51	-47.41	-42.76
+-25.73	-75.72	-46.49
+29.62	60.76	-20.66
+44.82	52.33	6.64
+-46.93	31.31	18.38
+-47.24	47.95	-14.24
+58.07	-42.08	23.33
+33.93	-7	-44.02
+
+// Simpson J R, 2000: Negatively - Neutrally Valenced Pictures, 
+// Subjects=18
+47.24	-72.2	-7.48
+44.98	-58.1	-17.56
+-42.67	-58.79	-18.72
+41.06	-71.96	23.8
+-44.59	-78.58	0.8
+-25.03	-77.33	42.85
+24.22	-62.8	61.14
+-42.3	-79.14	20.9
+-4.22	66.44	28.33
+51.3	37.73	10.02
+2.06	65.1	10.52
+-3.91	-92.97	3.77
+29.85	69.67	12.05
+-27.72	-87.4	-32.11
+-44.35	-34.29	50.62
+0.39	-50.88	24.73
+-55.52	26.52	12.19
+2.16	-89.85	-38.94
+41.04	-89.73	14.14
+-3.87	6.31	48.98
+17.51	-96.73	8.3
+-29.58	-95.58	-.17
+-30.13	-.19	-32.7
+-57.37	-58.43	14.87
+-17.09	-11.09	-9.63
+46.94	19.25	-8.45
+51.55	7.38	30.41
+2.45	40.52	50.5
+-42.37	-.78	43.32
+2.35	57.1	44.65
+30.46	1.37	64.61
+-49.22	20.96	-5.26
+-4.19	-27.76	-6.15
+25.46	9.12	-27.43
+-12.6	-10.95	19.3
+51.68	-35.26	29.52
+62.19	-25.99	10.78
+51.77	-16.8	48.05
+-25	-17.66	71.3
+45.19	-33.87	20.56
+28.48	-36.54	70.04
+
+// Taylor S F, 2000: Mildly Aversive - Non-Aversive
+// Subjects=14
+-24.75	7.93	-24.52
+28.88	4.85	-.35
+-28.9	21.25	-3.29
+
+// Taylor S F, 2000: Strongly Aversive - Non-Aversive
+// Subjects=14
+-21.53	4.78	-24.29
+28.82	2.05	-9.03
+31	4.69	-2.59
+-28.93	23.19	-5.68
+
+// Taylor S F, 2000: Strongly Aversive - Mildly Aversive
+// Subjects=14
+-9.8	10.14	-24.88
+28.82	-3.49	-11.91
+
+// Taylor S F, 2000: Non-Aversive - Blanks
+// Subjects=14
+19.15	-10.67	-21.24
+-28.94	-10.96	-20.66
+32.88	33.83	-25.13
+-34.45	29.02	-26.18
+
+// Taylor S F, 2000: Strongly Aversive - Blanks
+// Subjects=14
+17.02	-8.39	-19.17
+-24.68	-4.59	-21.24
+-5.39	-3.87	-13.72
+26.47	29.39	-26.91
+23.26	33.77	-25.01
+-26.96	29.07	-26.27
+-24.82	23.62	-28.07
+-21.61	17.13	-29.79
+
+// Lee G P, 2004: Negative vs. Neutral
+// Subjects=10
+-4	54	12
+-2	-12	38
+2	8	64
+-2	24	39
+26	2	-22
+-24	0	-27
+24	-60	-34
+-30	-60	-34
+-4	-83	-26
+
+// Lee G P, 2004: Positive vs. Neutral
+// Subjects=10
+-1	47	5
+-22	47	37
+22	46	47
+-39	21	38
+-49	32	3
+-44	4	18
+
+// Markowitsch H J, 2003: Sad > Happy
+// Subjects=13
+-52	24	-2
+54	34	-6
+64	-28	-12
+-10	-60	-24
+
+// Markowitsch H J, 2003: Happy > Sad
+// Subjects=13
+14	26	-10
+-24	24	48
+-30	-28	-16
+-24	24	48
+
+// Markowitsch H J, 2003: Sad > Fixation
+// Subjects=13
+12	20	26
+-44	44	10
+28	10	2
+4	-48	-18
+
+// Markowitsch H J, 2003: Happy > Fixation
+// Subjects=13
+32	-56	2
+14	16	28
+-16	20	48
+-12	-45	4
+-26	-58	16
+-22	-4	-4
+
+// Pelletier M, 2003: Sad - Neutral
+// Subjects=9
+-38	50	-9
+-50	34	-8
+6	60	3
+-6	60	2
+36	52	-9
+2	-33	-33
+-4	-34	-29
+-48	8	-30
+
+// Pelletier M, 2003: Happy - Neutral
+// Subjects=9
+-38	50	-10
+34	50	-9
+2	-30	-29
+-6	61	1
+-6	59	21
+-53	13	-20
+6	60	6
+-53	30	2
+
+// Pelletier M, 2003: Sad - Happy
+// Subjects=9
+-42	35	10
+4	-26	-17
+-2	-26	-17
+24	7	-17
+
+// Pelletier M, 2003: Happy - Sad
+// Subjects=9
+-24	56	-13
+-6	61	10
+2	58	7
+
+// Bartolo A, 2006: Funny vs. Neutral Cartoons
+// Subjects=21
+-35.21	-52.4	-19.34
+-33.4	11.25	-35.85
+-32.93	-80.6	-12.54
+-62.07	-12.3	-21.28
+-57.87	2.28	-25.9
+-53.55	16.02	-13.72
+-41.69	-45.47	-25.43
+-50.08	-73.56	-16.28
+-50.2	-45.09	-19.78
+7.61	-86.5	-23.67
+31.05	-47.52	-17.17
+37.08	22.16	-38.69
+55.32	31.76	-26.33
+33.25	-62.31	-15.95
+52.45	-71.26	-23.23
+55.72	-68.44	-14.58
+
+// Bartolo A, 2006: Brain Regions in which Stimuli-Related BOLD Signal was 
+// Subjects=21
+-32.95	-79.71	-14.85
+-52.53	24.23	-17.76
+-55.43	-60.47	-11.74
+-31.27	19.9	-34.37
+-62.05	-11.07	-19.15
+-50.08	-73.56	-16.28
+-18.26	-5.52	-20.12
+-57.68	-23.22	-11.49
+-57.87	2.28	-25.9
+-41.67	-45.3	-23.21
+-53.64	6.27	-29.63
+7.61	-86.5	-23.67
+33.21	-47.34	-14.98
+59.81	-18.71	-18.8
+31.11	-62.32	-15.93
+49.87	15.3	-46.07
+55.36	27.79	-22.65
+18.26	-34.14	-8.11
+
+// Dapretto M, 2006: Imitation, Normals
+// Subjects=10
+-44	-6	44
+42	-16	34
+-42	-8	38
+48	0	20
+2	0	60
+12	20	34
+-36	40	26
+50	0	40
+-50	8	10
+54	10	8
+-40	20	2
+42	36	8
+-36	-4	10
+36	2	4
+-42	-18	38
+58	-12	20
+-52	4	2
+48	12	-4
+28	4	-24
+-34	-62	-18
+30	-62	-16
+-18	-78	-12
+6	-74	-4
+-44	-64	-4
+40	-70	-4
+-18	-10	-8
+18	-8	-8
+-36	-12	-8
+32	-12	-8
+16	4	8
+-28	-10	8
+20	-4	8
+-14	-24	14
+4	-18	12
+-30	-58	-22
+26	-66	-20
+
+// Vandekerckhove M M P, 2005: Autobiographic Memory vs. Rest
+// Subjects=16
+-36	25	-6
+-45	26	-6
+53	29	-7
+45	26	-4
+-39	45	20
+15	57	28
+-53	-7	-22
+-48	-38	-8
+-18	-18	-17
+-27	-13	-17
+48	16	-28
+-39	16	-34
+-6	20	42
+-6	-58	10
+-39	-68	36
+-48	-63	23
+-15	-70	49
+6	-83	-21
+
+// Finger E C, 2006: Moral = Social with Audience > Social without Audience = 
+// Subjects=16
+-1.88	53.19	49.48
+-44.93	24.41	-2.25
+
+// Finger E C, 2006: Moral > Social = Neutral
+// Subjects=16
+79.97	1.96	-28.57
+-64.19	13.12	-8.89
+-74.69	-53.1	-11.02
+0.02	79.24	28.32
+-9.02	3.93	73.77
+
+// Finger E C, 2006: Moral and Social > Neutral
+// Subjects=16
+-67.33	-62.08	-31.54
+-74.5	-51.21	13.35
+
+// Finger E C, 2006: Audience > No Audience
+// Subjects=16
+-21.52	1.61	-24.03
+
+// Gusnard D A, 2003: Correlation between Personality Trait (Persistence) and 
+// Subjects=24
+4.23	39.05	3.76
+-12.83	10.77	-2.59
+-27.91	13.89	-16.06
+49.07	16.97	-10.52
+8.54	6.5	-4.71
+
+// Taylor S F, 2003: Rating, Aversive - Rating, Non-Aversive
+// Subjects=10
+0.15	31.14	25.66
+2.06	65.1	10.52
+45.77	62.05	-5.34
+-18.98	-64.51	1.56
+50.19	-59.44	-35.35
+-43.83	-65.29	-33.78
+-21.22	-83.16	-19.15
+
+// Taylor S F, 2003: Rating and Passive Viewing, Aversive - Non-Aversive
+// Subjects=10
+45.77	62.05	-5.34
+33.05	65.29	10.15
+-24.32	-60.14	3.49
+48.05	-59.45	-35.32
+
+// Morris J S, 2004: Acquisition CS+ > Acquisition CS-
+// Subjects=12
+-24	-10	-12
+42	30	0
+34	-28	0
+-26	-22	8
+
+// Morris J S, 2004: (Acquisition CS+ > Acquisition CS-) x Time Interaction
+// Subjects=12
+30	0	-12
+0	4	58
+
+// Morris J S, 2004: (Repeat CS+ and Reversal CS+) > (Repeat CS- and Reversal 
+// Subjects=12
+4	38	-14
+42	44	-16
+18	2	-24
+12	4	56
+28	-74	-8
+-34	-72	-14
+
+// Morris J S, 2004: (Repeat CS+ and Reversal CS-) > (Repeat CS- and Reversal 
+// Subjects=12
+30	2	-26
+18	0	40
+28	-50	-12
+20	-26	10
+40	16	-12
+38	-6	-6
+
+// Stark R, 2007: Disgust > Neutral, Parametric Modulators
+// Subjects=66
+18	30	-18
+63	-18	27
+-63	-24	30
+45	-60	-9
+-45	-66	-6
+36	-87	12
+-36	-93	12
+39	3	-6
+-39	0	-15
+
+// Stark R, 2007: Fear > Neutral, Parametric Modulators
+// Subjects=66
+54	33	0
+-9	-48	33
+-42	-60	-18
+-51	-69	12
+45	-78	3
+-15	-96	18
+12	-99	18
+
+// Stark R, 2007: Disgust > Fear, Parametric Modulators
+// Subjects=66
+-27	-45	-18
+30	-51	-15
+-45	-63	-6
+-33	-96	15
+21	-102	-6
+39	-3	3
+-39	-6	6
+
+// Stark R, 2007: Fear > Disgust, Parametric Modulators
+// Subjects=66
+33	57	6
+-48	42	-15
+-39	48	-3
+42	27	39
+-42	27	39
+36	15	54
+42	-45	-30
+63	-51	12
+3	-60	42
+-45	-72	12
+-12	-99	15
+
+// Stark R, 2007: Disgust > Neutral
+// Subjects=66
+-30	33	-15
+48	9	24
+-63	-24	33
+24	-57	57
+48	-63	-9
+-45	-66	-9
+-36	0	-12
+33	0	-24
+
+// Stark R, 2007: Disgust > Fear
+// Subjects=66
+-27	-51	-15
+30	-54	-12
+-33	-93	12
+39	-3	3
+-39	-6	6
+
+// Stark R, 2007: Fear > Neutral
+// Subjects=66
+54	36	6
+30	0	-30
+48	-66	3
+-48	-69	9
+9	-93	3
+
+// Stark R, 2007: Fear > Disgust
+// Subjects=66
+3	48	-6
+-48	42	-9
+57	30	-6
+27	27	48
+0	27	-12
+-39	12	45
+57	-6	-24
+57	-48	12
+-45	-57	12
+42	-48	-24
+3	-57	39
+-9	-99	12
+
+// Cunningham W A, 2004: Good/Bad > Abstract/Concrete
+// Subjects=20
+0	28	-8
+-8	52	20
+12	56	8
+16	-8	-20
+-4	-56	28
+64	-12	-32
+64	-16	-24
+32	20	-24
+-64	-8	-28
+-48	16	-44
+-52	-24	-20
+20	36	44
+-56	-60	24
+-64	-60	4
+
+// Cunningham W A, 2004: Good/Bad = Abstract/Concrete, Correlated with Rated 
+// Subjects=20
+-20	-4	-16
+-4	4	-4
+12	32	-20
+8	48	28
+0	-24	-8
+56	-72	8
+-48	-64	28
+-40	-88	32
+0	-68	-40
+40	-52	32
+-32	-8	60
+36	-8	52
+-24	-44	56
+
+// Cunningham W A, 2004: Good/Bad > Abstract/Concrete, Correlated with Rated 
+// Subjects=20
+36	24	-36
+12	-52	28
+-12	-56	-12
+
+// Cunningham W A, 2004: Good/Bad, Correlated with Rated Emotional Intensity
+// Subjects=20
+24	24	-16
+-60	8	0
+52	-32	-16
+60	4	8
+-44	36	8
+-16	-60	36
+-64	-48	36
+
+// Cunningham W A, 2004: Good/Bad = Abstract/Concrete, Correlated with Rated 
+// Subjects=20
+36	20	0
+52	20	4
+4	20	40
+
+// Cunningham W A, 2004: Good/Bad, Correlated with Rated Valence
+// Subjects=20
+-44	28	-12
+
+// Cunningham W A, 2004: Good/Bad > Abstract/Concrete, Correlated with Rated 
+// Subjects=20
+32	60	8
+-32	28	52
+48	32	-4
+16	32	60
+48	16	48
+48	4	-44
+48	-60	28
+
+// Cunningham W A, 2004: Good/Bad, Correlated with Rated Control
+// Subjects=20
+40	56	4
+-4	24	32
+8	52	16
+40	16	52
+-52	28	-8
+-12	-60	28
+60	-24	-16
+60	-44	-4
+-52	-40	-4
+36	-60	28
+-28	-24	-24
+-56	8	44
+
+// Guroglu B, 2008: Peer vs. Celebrity + Positive vs. Non-Positive
+// Subjects=28
+6	32	-2
+4	20	-4
+-2	32	4
+-8	6	-6
+-6	-10	0
+34	2	-34
+30	-4	-22
+38	8	-22
+-28	-4	-26
+-28	-12	-8
+-32	-4	-12
+52	-8	8
+58	2	6
+32	-22	-4
+-44	-26	2
+-44	-76	28
+-40	-62	20
+-50	-64	18
+
+// Ortigue S, 2007: All Primes > Rest
+// Subjects=29
+6	-8	10
+6	12	0
+6	-22	-22
+36	-4	2
+-26	20	-4
+-30	20	-4
+-20	20	-4
+36	-88	-18
+-48	-50	-24
+64	-52	16
+56	-70	-2
+34	-18	-28
+-40	-8	-34
+-64	-50	22
+66	-44	32
+-18	62	16
+-46	26	26
+52	38	22
+66	-14	-8
+-44	-26	-20
+-64	-22	-10
+-18	-96	-8
+18	-94	-8
+16	-76	20
+-12	-68	-2
+10	-40	20
+-6	-42	8
+64	2	24
+12	-48	-38
+-36	-78	-52
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name
+// Subjects=29
+6	12	0
+6	-22	-22
+36	-4	2
+-26	20	-4
+36	-88	-18
+-48	-50	-24
+34	-18	-28
+-40	-8	-34
+-64	-50	22
+66	-44	32
+-18	62	16
+-46	26	26
+66	-14	-8
+-44	-26	-20
+-18	-96	-8
+12	-48	-38
+-36	-78	-52
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name Correlated with 
+// Subjects=29
+-26	20	-4
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name Correlated with 
+// Subjects=29
+-26	20	-4
+-18	62	16
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name Correlated with 
+// Subjects=29
+-26	20	-4
+34	-18	-28
+-18	62	16
+66	-14	-8
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name Correlated with 
+// Subjects=29
+-26	20	-4
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name Correlated with PLS
+// Subjects=29
+34	-18	-28
+-64	-50	22
+-18	62	16
+-46	26	26
+
+// Ortigue S, 2007: Beloved's Name - Acquaintance's Name Correlated with 
+// Subjects=29
+-18	62	16
+
+// Rilling J K, 2007: CC vs. (CD + DC + DD), Psychopathy Positive Correlation
+// Subjects=22
+5.1	60.07	-13.62
+-62.96	-6.1	3.86
+-66.01	-31.96	13.87
+
+// Rilling J K, 2007: CC vs. (CD + DC + DD), Psychopathy Negative Correlation
+// Subjects=22
+22.43	26.39	3.5
+-34.09	16.25	15.04
+-7.2	-3.8	28.67
+45.37	-79.25	25.48
+
+// Rilling J K, 2007: CD vs. (CC + DC + DD), Psychopathy Positive Correlation
+// Subjects=22
+2.22	-17.86	-2.6
+
+// Rilling J K, 2007: CD vs. (CD + DC + DD), Psychopathy Negative Correlation
+// Subjects=22
+15.94	0.23	-17.65
+
+// Rilling J K, 2007: DC vs. (CC + CD + DD), Psychopathy Positive Correlation
+// Subjects=22
+41.5	40.11	-13.48
+
+// Rilling J K, 2007: DC vs. (CC + CD + DD), Psychopathy Negative Correlation
+// Subjects=22
+-12.83	23.98	2.99
+-2.97	1.26	24.86
+-9.37	-31.53	14.3
+37.55	-42.22	-4.3
+52.65	-68.14	3.27
+16.45	-82.39	14.92
+-19.96	-72.38	10.04
+13.27	-87.61	16.51
+
+// Rilling J K, 2007: DD vs. (CC + CD + DC), Psychopathy Positive Correlation
+// Subjects=22
+-58.76	-30.97	-15.29
+55.96	-51.69	23.04
+-52	-73.46	12.73
+18.37	-79.06	-11.03
+18.55	-98.13	3.95
+
+// Rilling J K, 2007: Partner Cooperation - Defect, Psychopathy Positive 
+// Subjects=22
+-61.91	-5.21	1.54
+
+// Rilling J K, 2007: Partner Cooperation - Defect, Psychopathy Negative 
+// Subjects=22
+-17.11	25.01	2.95
+-1.83	-59.5	9.86
+26.91	-71.44	-9.54
+27.3	-74.01	39.74
+15.48	-93.43	23.66
+
+// Rilling J K, 2007: Choice Cooperation - Choice Defect, Psychopathy Positive 
+// Subjects=22
+-42.22	-5.84	60.47
+
+// Rilling J K, 2007: Choice Cooperation - Choice Defect, Psychopathy Negative 
+// Subjects=22
+7.29	46.33	-12.5
+37.18	40.71	-19.06
+68.47	-31.72	-8.89
+46.03	-69.26	-24.44
+13.27	-98.62	11.86
+
+// Iaria G, 2008: Emotional Processing - Orientation Discrimination
+// Subjects=10
+-6	34	56
+8	36	56
+-12	56	34
+-14	58	18
+-48	46	-12
+-40	34	2
+40	28	-22
+-40	34	2
+-4	50	-20
+56	-70	18
+-24	-34	-22
+38	-74	24
+-36	-84	26
+-26	-10	-14
+10	-86	-26
+
+// Blair K S, 2007: Negative > Neutral
+// Subjects=22
+-35.4	22.56	-13.36
+5.5	52.12	34.99
+-19.32	-6.5	-18.91
+29.78	-5.74	-27.35
+-40.34	-78.82	-2.57
+49.43	-73.79	-.68
+
+// Blair K S, 2007: Negative, Incongruent = Congruent > View
+// Subjects=22
+-32.02	54.04	21.88
+43.94	44.43	28.5
+21.11	53.39	-18.82
+-20.55	49.97	-18.06
+36.21	57.14	0.76
+-7.3	20.43	25.53
+-40.51	-.34	7.58
+40.53	23.61	-6.51
+-57.47	6.47	28.39
+8.85	22.87	41.87
+55.15	-37.95	63.16
+11.78	-19.46	-10.38
+36.21	57.14	0.76
+
+// Blair K S, 2007: Interaction: Task * Negative Emotion
+// Subjects=22
+40.46	60.16	-1.77
+
+// Blair K S, 2007: Positive > Neutral
+// Subjects=22
+52.65	-84.6	-3.15
+
+// Blair K S, 2007: Positive, Incongruent = Congruent > View
+// Subjects=22
+42.88	40.03	26.65
+-28.81	55.11	21.75
+34.06	55.89	-1.34
+-21.62	47.76	-18.98
+-14.92	33.28	13.39
+-28.9	24.51	-2.45
+38.39	24.66	-6.58
+-58.68	7.21	10.5
+40.82	7.86	23.8
+66.52	-24.31	18.4
+33.22	-63.71	-20.29
+
+// Blair K S, 2007: Interaction: Task * Positive Emotion
+// Subjects=22
+37.27	57.06	-.36
+
+// Eippert F, 2007: Decrease - View
+// Subjects=24
+0	18	54
+6	24	36
+-6	30	27
+-45	15	3
+-42	21	0
+-30	3	57
+-60	24	6
+-6	30	27
+-3	24	30
+-45	18	-3
+
+// Eippert F, 2007: Increase - View
+// Subjects=24
+12	-48	9
+0	15	57
+-6	-39	-18
+-24	-33	-6
+-6	27	15
+30	-63	-24
+-6	-12	63
+-9	-51	6
+15	9	54
+-21	-51	12
+-27	-57	-24
+9	-6	66
+21	3	-18
+-18	0	-12
+-12	9	54
+-15	9	60
+-30	0	54
+15	9	54
+15	-3	75
+51	9	6
+-6	27	15
+0	18	30
+-6	30	30
+-9	33	27
+-45	18	-3
+-18	12	-15
+
+// Fitzgerald D A, 2004: Disgust > Neutral
+// Subjects=12
+-12	-80	-10
+-36	-20	-18
+34	-34	0
+-12	-30	12
+-18	-18	8
+-6	-6	4
+16	-16	-2
+-34	6	6
+-42	-4	-6
+40	-12	0
+-6	-48	28
+20	22	14
+-8	18	10
+16	36	24
+34	-4	-2
+
+// Reiss A L, 2008: Humor > Neutral, Normals
+// Subjects=12
+-41.93	24.49	-29.06
+-1.1	-12.48	-15.28
+-1.04	-18.39	-9.2
+47.89	13.57	-26.94
+
+// Grimm S, 2006: unPJ > unPV
+// Subjects=29
+44	-10	44
+-44	2	32
+-6	8	48
+30	-48	-10
+-8	-58	4
+-2	-10	56
+12	-20	-10
+-12	-18	8
+0	-58	-30
+
+// Grimm S, 2006: exPJ > exPV
+// Subjects=29
+54	4	28
+-42	10	32
+30	34	-14
+-48	32	-10
+28	-62	-12
+-30	-82	32
+
+// Grimm S, 2006: Correlation Between Regional fMRI Signal Changes and Post 
+// Subjects=29
+46	26	14
+-44	24	20
+
+// Grimm S, 2006: Correlation Between Regional fMRI Signal Changes and Post 
+// Subjects=29
+48	40	-10
+
+// Grimm S, 2006: Correlation Between Regional fMRI Signal Changes and Post 
+// Subjects=29
+4	30	52
+
+// Grimm S, 2006: Correlation Between Regional fMRI Signal Changes and Post 
+// Subjects=29
+8	18	48
+8	18	48
+
+// Grimm S, 2006: Positive Valenced Pictures Showing Negative Correlation in 
+// Subjects=29
+-36	-9	57
+
+// Grimm S, 2006: Negative Valenced Pictures Showing Negative Correlation in 
+// Subjects=29
+50	26	16
+
+// Critchley H D, 2002: CS+ versus CS-
+// Subjects=9
+16	2	-24
+
+// Critchley H D, 2002: Conjunction of Unmasked and Masked Conditioning
+// Subjects=9
+20	-8	-30
+
+// Critchley H D, 2002: CS+ vs. CS- Interaction with Time
+// Subjects=9
+10	52	18
+-6	-46	-8
+
+// Critchley H D, 2002: Unmasked > Masked Stimuli, Interaction with Time
+// Subjects=9
+58	8	10
+62	-8	-12
+
+// Critchley H D, 2002: (CS+ > CS-) Unmasked > (CS+ > CS-) Masked
+// Subjects=9
+62	-2	-8
+42	-8	-8
+36	-12	4
+
+// Dalton K M, 2005: Threat vs. Safety
+// Subjects=17
+-29.12	48.6	-21.19
+-39.47	27.93	15.23
+-39.15	10.32	49.05
+-19.1	41.85	28.33
+-43.9	13.07	-11.35
+36.4	22.84	11.44
+
+// Dalton K M, 2005: Threat - Safety, Correlated with Self-Reported Anxiety
+// Subjects=17
+29.66	38.04	-25.44
+-25.87	32.67	-21.01
+-38.32	38.65	29.93
+-40.59	15.26	2.92
+15.93	-5.31	-20.53
+-18.59	-19.82	70.3
+
+// Dolcos F, 2004: Positive > Negative + Neutral Pictures
+// Subjects=16
+-42.68	28.62	47.1
+0.66	62.11	-21.95
+0.86	63.56	-6.41
+
+// Dolcos F, 2004: Negative > Positive + Neutral Pictures
+// Subjects=16
+53.81	36.53	-11.36
+54.27	13.71	20.03
+-39.72	13.38	21.66
+
+// Dolcos F, 2004: Positive + Negative > Neutral Pictures
+// Subjects=16
+-3.23	58.72	10.95
+33.14	18.95	-26.08
+
+// Dolcos F, 2004: (Remembered - Forgotten Pictures) x (Positive + Negative > 
+// Subjects=16
+-52.03	32.01	-7.99
+-39.59	6.66	30.17
+
+// Dolcos F, 2004: (Remembered - Forgotten Pictures) x (Positive > Negative + 
+// Subjects=16
+-10.6	44.84	23.65
+-51.95	24.98	-2.81
+
+// Piefke M, 2003: (Childhood, Pos + Childhood, Neg + Recent, Pos + Recent, 
+// Subjects=20
+-10	62	28
+40	18	20
+-46	22	20
+-42	6	52
+-2	12	56
+-50	32	-10
+54	16	-32
+-52	14	-34
+60	0	-24
+-56	2	-24
+-24	-20	-18
+-30	-54	48
+-6	-56	4
+36	-64	-24
+-28	-66	-18
+46	-82	2
+-42	-78	4
+14	-82	-42
+
+// Piefke M, 2003: (Recent, Pos + Recent, Neg) > (Childhood, Pos + Childhood, 
+// Subjects=20
+-4	-46	24
+30	-20	-20
+-24	-22	-18
+
+// Piefke M, 2003: (Childhood, Pos + Recent, Positive) > (Childhood, Neg + 
+// Subjects=20
+6	56	-12
+34	8	-40
+24	-10	-34
+-22	-12	-32
+
+// Piefke M, 2003: (Childhood, Neg + Recent, Neg) > (Childhood, Pos + 
+// Subjects=20
+50	-30	-6
+
+// Garrett A S, 2006: Aversive vs. Neutral Pictures
+// Subjects=9
+-48	-77	15
+-36	-72	-3
+-40	-66	-8
+-50	-62	-2
+-48	-54	6
+51	-64	3
+42	-74	-8
+30	-78	24
+46	-67	-10
+40	-44	-26
+50	-56	1
+55	-48	19
+-22	3	-17
+20	-2	-10
+-14	-31	-5
+-30	-16	-16
+22	-10	-15
+6	-32	-12
+4	-15	4
+2	-2	-5
+26	13	-4
+-24	11	-6
+12	12	1
+-16	17	-1
+38	11	-4
+40	29	-10
+-34	25	-8
+26	26	-15
+-38	34	-15
+
+// Garrett A S, 2006: Activation During Negative Emotion Ratings Following 
+// Subjects=9
+4	-70	-32
+-6	-78	-10
+4	-82	-4
+4	-29	1
+-14	-22	-7
+-2	-4	-7
+50	36	-14
+30	48	-6
+48	36	-5
+48	21	1
+
+// Garrett A S, 2006: Areas of Activation Significantly Correlated with 
+// Subjects=9
+4	-71	-30
+32	-42	-26
+16	-20	-12
+-14	-16	-9
+8	-19	8
+-6	-11	8
+26	52	-18
+50	32	-17
+-36	-7	56
+-32	-13	47
+-28	9	59
+-8	12	49
+6	12	40
+2	23	32
+-8	9	33
+
+// Mathews A, 2004: Fear > Neutral, Emotional
+// Subjects=22
+-24	-82	-14
+-20	-96	-8
+-30	-80	-8
+-46	-72	-16
+-20	-14	-12
+18	8	-24
+-22	-22	-12
+-38	-12	-16
+4	-32	-2
+-34	4	6
+-6	44	6
+-4	56	0
+-2	-18	40
+-8	54	32
+
+// Mathews A, 2004: Fear > Neutral, Emotional; Positively Correlated with BIS 
+// Subjects=22
+40	-16	-22
+-2	-40	-24
+-8	46	2
+2	40	2
+-16	52	4
+
+// Morris J S, 2001: (Masked CS+/Noise UCS) vs. (Masked CS- + Unmasked CS- + 
+// Subjects=6
+-20	-24	-4
+28	-20	-4
+-52	-24	6
+54	-22	8
+-30	-10	-10
+-44	-18	12
+
+// Morris J S, 2001: Unmasked CS+ vs. Unmasked CS-
+// Subjects=6
+32	-88	20
+6	-22	14
+-12	-8	-26
+
+// Morris J S, 2001: Early Learning:  CS+ vs. CS-
+// Subjects=6
+-18	2	-14
+
+// Morris J S, 2001: Late Learning:  CS- vs. CS+
+// Subjects=6
+-44	-18	12
+
+// Morris J S, 2001: Late Learning:  CS+ vs. CS-
+// Subjects=6
+36	-62	-2
+-32	-66	-2
+
+// Wrase J, 2003: Positive vs. Neutral, Men
+// Subjects=10
+-21	-9	-12
+24	-4	-15
+-45	28	-17
+56	26	-1
+-50	-69	20
+59	-43	8
+
+// Wrase J, 2003: Positive vs. Neutral, Women
+// Subjects=10
+-53	-66	12
+62	-40	19
+53	-64	6
+
+// Wrase J, 2003: Negative vs. Neutral, Men
+// Subjects=10
+18	-9	-12
+53	29	-4
+-50	-61	11
+
+// Wrase J, 2003: Negative vs. Neutral, Women
+// Subjects=10
+24	-6	-10
+-6	-7	31
+3	18	18
+50	21	7
+-45	-69	12
+56	43	5
+45	-45	-18
+48	-64	3
+
+// Lawrence E J, 2006: Social Perception > Non Social Labeling
+// Subjects=12
+-49.01	23.19	23.55
+-48.99	-45.83	-1.89
+55.69	31.21	21.67
+1.45	12.68	48.38
+39.36	-29.09	-41.11
+
+// Lawrence E J, 2006: Brain Activation Correlated with Self Reported Personal 
+// Subjects=12
+27.61	44.51	-10.35
+28.09	32.93	46.38
+-6.38	29.9	10.23
+-13.61	11.56	35.27
+-18.17	13.03	-.49
+
+// Lawrence E J, 2006: Brain Activation Correlated with Self Reported Personal 
+// Subjects=12
+-10.5	39.16	34.03
+
+// Lawrence E J, 2006: Brain Activation Correlated with Self Reported Social 
+// Subjects=12
+32.22	-4.76	12.69
+66.27	-30.22	-16.79
+55.64	30.7	15.02
+40.03	-17.75	50.49
+16.33	32.86	46.52
+-37	17.11	54.03
+
+// Lawrence E J, 2006: Brain Activation Correlated with Self Reported Social 
+// Subjects=12
+-13.86	29.86	10.32
+-30.07	39.94	-9.3
+24.5	45.43	1.88
+
+// Lawrence E J, 2006: Brain Activation Correlated with Self Overlap on the 
+// Subjects=12
+5.69	45.29	56.75
+16.05	34.35	10.71
+27.71	36.74	-.78
+24.85	-57.48	6.04
+-18.02	-1.89	13.03
+-53.23	-25.79	9.86
+-32.88	-40.56	9.75
+-29.91	13.04	0.76
+
+// Lawrence E J, 2006: Brain Activation Correlated with Self Overlap on the 
+// Subjects=12
+61.19	-36.31	15
+51.34	26.02	9.89
+-48.61	-46.29	47.21
+-37.05	-56.99	17.87
+
+// Najib A, 2004: Ruminative vs. Neutral (Increases)
+// Subjects=9
+-8.5	-73.19	-29.06
+-16.02	-63.72	-29.77
+-6.27	-82.1	-20.53
+-11.68	-47.69	-15.55
+-6.16	-78.78	-5.2
+-15.86	-41.23	-.43
+-23.21	-60.77	9.1
+-11.41	-56.92	16.45
+-6.05	-44.66	23.17
+-.64	-61.55	24.52
+-18.76	-43.54	38.83
+-13.34	-62.54	40.36
+-5.82	-73.07	41.16
+-20.8	-67.87	40.9
+1.61	-29.53	53.03
+-28.22	-54.03	55.43
+-26.35	-95.22	4.22
+-8.21	-87.71	3.38
+-15.62	-90.33	11.49
+-18.79	-82.35	18.67
+1.12	-57.73	-22.66
+25.81	-87.19	-20.47
+6.66	-63.3	1.16
+3.12	-38.23	-32.12
+44.2	-51.76	23.18
+29.37	-70.29	32.71
+57.07	-47.91	30.52
+38.77	-60.4	8.36
+18.65	-76.24	25.53
+9.05	-34.31	45.54
+14.44	-62.37	40.03
+18.78	-80.32	41.48
+24.16	-56.89	55.07
+29.22	-94.89	3.55
+21.65	-70.61	1.61
+14.29	-86.98	10.87
+44.04	-73.19	-6.24
+21.74	-77.42	9.98
+31.36	-79.47	10.04
+40.98	-79.42	9.93
+
+// Vartanian O, 2004: Representational - Abstract
+// Subjects=12
+-22	-102	-16
+20	-100	-14
+44	-60	8
+4	-60	42
+
+// Vartanian O, 2004: Original - Altered
+// Subjects=12
+16	-50	6
+16	-62	-20
+
+// Vartanian O, 2004: Original - Filtered
+// Subjects=12
+42	-74	-16
+
+// Vartanian O, 2004: (Representational, Orig - Representational, Filt) - 
+// Subjects=12
+-10	-44	-8
+16	-38	-8
+-14	-48	68
+32	-90	18
+
+// Vartanian O, 2004: Brain Areas that Decreased in Activation in Response to 
+// Subjects=12
+6	10	8
+
+// Vartanian O, 2004: Brain Areas that Increased in Activation in Response to 
+// Subjects=12
+-16	48	0
+-24	-104	2
+24	-104	2
+46	-76	-20
+-46	-76	-20
+32	-71	-31
+32	-71	-31
+-12	-86	-28
+-26	-94	-24
+
+// Altshuler L, 2008: Match faces vs forms, Control group, Amygdala
+// Subjects=17
+-26.79	0.15	-14.92
+24.5	-1.83	-17.58
+
+// Altshuler L, 2008: Match faces vs forms, Control group, Frontal lobe
+// Subjects=17
+-52.46	19.54	-9.56
+50.13	20.15	-10.79
+52.52	20.62	22.59
+
+// Altshuler L, 2008: Match faces vs forms, Control group, Fusiform
+// Subjects=17
+-26.56	-65.59	-11.64
+39.68	-60.96	-12.79
+
+// Lamm C, 2007: Observation of Patients Expressing Pain and the First-Hand 
+// Subjects=17
+-52	-2	-16
+-38	2	-20
+-48	-8	-12
+0	6	62
+0	14	50
+42	-2	-18
+34	18	6
+-38	18	4
+-36	26	4
+-32	26	-10
+50	-44	18
+40	-42	4
+-10	12	40
+44	20	-16
+50	6	-14
+22	10	-16
+26	0	-22
+
+// Lamm C, 2007: Imagine Self > Imagine Other
+// Subjects=17
+-52	-26	26
+-60	-34	24
+42	8	-2
+-16	-4	14
+-30	2	8
+-36	8	4
+8	0	54
+46	-14	56
+22	-32	66
+-38	-10	-12
+-36	36	34
+-60	8	2
+
+// Lamm C, 2007: Imagine Other > Imagine Self
+// Subjects=17
+26	-76	56
+38	-68	56
+24	-66	64
+48	-64	44
+
+// Lamm C, 2007: Empathy Quotient, Other
+// Subjects=17
+26	0	10
+-36	-2	12
+0	-4	42
+-22	-46	-24
+
+// Lamm C, 2007: Empathic Concern Index, Other
+// Subjects=17
+14	16	28
+
+// Lamm C, 2007: Emotional Contagion, Watching Pain
+// Subjects=17
+30	16	12
+44	18	8
+-32	-10	10
+16	-26	42
+6	-4	52
+50	-14	44
+64	-38	34
+-50	-42	36
+-56	-44	56
+
+// Marjoram D, 2006: ToM vs. Physical Joke, Normals
+// Subjects=13
+-4.62	-44.94	50.37
+56.72	-38.84	31.91
+-62.36	-57.5	11.13
+
+// Vollm B A, 2006: Empathy vs. Physical Causality 2 (PC2) Strip (processing 
+// Subjects=13
+-9	37	51
+-50	-57	17
+-45	10	-31
+-12	-52	3
+-30	-80	-26
+48	4	-33
+57	3	-21
+27	-96	8
+18	-83	-26
+
+// Vollm B A, 2006: Conjunction, ToM + Empathy (common activations associated 
+// Subjects=13
+-21	35	51
+-53	-57	19
+-53	-9	-18
+-50	-4	-30
+-27	-96	10
+-21	-102	-2
+-9	-52	3
+-30	-80	-26
+15	37	51
+6	8	-16
+53	-60	17
+59	-12	-15
+18	-101	11
+42	-87	4
+21	-83	-26
+
+// Vollm B A, 2006: (Empathy- PC2 Strip) vs. (ToM- PC1 Strip) (areas more 
+// Subjects=13
+-21	-1	-15
+9	53	14
+24	13	24
+6	-22	34
+42	-76	1
+
+// Jabbi M, 2007: Correlation, Personal Distress + Disgusted Faces
+// Subjects=18
+20	4	2
+-44	26	-10
+0	-22	-22
+46	38	-4
+20	-46	0
+-24	-60	2
+-10	50	10
+-4	32	10
+40	34	16
+50	2	18
+42	-46	22
+-60	-52	32
+62	-42	36
+8	12	26
+-6	20	30
+-48	10	32
+-6	-12	38
+-36	-2	42
+42	12	38
+
+// Jabbi M, 2007: Correlation, Fantasy + Disgusted Faces
+// Subjects=18
+-46	8	2
+30	10	-10
+48	22	-22
+14	12	-4
+-46	34	0
+40	-32	2
+-10	4	10
+50	38	10
+40	-50	16
+-30	56	18
+26	62	22
+46	24	32
+32	32	36
+-12	28	26
+0	-36	30
+-10	54	32
+58	-52	38
+-44	14	42
+-12	22	38
+
+// Jabbi M, 2007: Correlation, Empathic Concern + Disgusted Faces
+// Subjects=18
+12	-34	-18
+12	4	-16
+-36	18	-4
+10	-18	26
+
+// Jabbi M, 2007: Correlation, Perspective Taking + Disgusted Faces
+// Subjects=18
+-32	14	-26
+44	12	-18
+-10	-2	-16
+34	-28	-4
+-20	58	-6
+-44	16	-2
+44	-50	10
+-38	50	10
+22	60	14
+34	34	22
+50	24	16
+-14	40	22
+6	-16	24
+26	44	36
+42	22	44
+12	52	42
+
+// Jabbi M, 2007: Correlation, Personal Distress + Pleasant Faces
+// Subjects=18
+2	-38	-34
+40	30	22
+-38	20	-14
+22	-6	0
+-4	30	8
+-28	0	16
+48	-48	20
+40	12	40
+42	26	44
+
+// Jabbi M, 2007: Correlation, Fantasy + Pleasant Faces
+// Subjects=18
+32	-6	-26
+32	14	-18
+-54	-10	-16
+28	-26	-8
+16	16	-14
+-12	62	-8
+24	48	-2
+-30	56	10
+-44	32	14
+-6	48	8
+40	-52	32
+-32	28	16
+10	-58	20
+-10	-56	22
+-16	28	24
+-6	-30	26
+-10	52	34
+22	50	34
+-44	14	44
+40	24	46
+10	32	50
+-14	20	50
+-30	6	50
+
+// Jabbi M, 2007: Correlation, Perspective Taking + Pleasant Faces
+// Subjects=18
+48	8	-20
+42	28	-18
+-42	20	-20
+-8	-4	-14
+-14	60	-10
+28	-28	-6
+10	28	-4
+38	22	48
+30	-8	0
+52	28	2
+18	60	4
+40	-48	12
+14	28	26
+-26	24	18
+-18	38	18
+10	-46	18
+4	-36	32
+12	28	50
+
+// Jabbi M, 2007: Correlation, Personal Distress + Neutral Faces
+// Subjects=18
+26	-10	-24
+-18	12	-8
+24	0	2
+46	16	-10
+18	14	-10
+2	-24	-2
+-2	30	8
+42	36	12
+48	-4	26
+32	-20	38
+10	-16	44
+-4	-16	50
+
+// Chang K, 2004: Negative - Neutral Pictures, Normals
+// Subjects=10
+-56.37	-66.85	2.19
+-11.68	39.1	19.55
+-1.12	55.4	9.14
+48.24	-63.02	-12.72
+46.08	15.84	16.38
+7.56	56.82	26.77
+-54.07	-47.52	31.76
+
+// Chang K, 2004: Positive - Neutral Pictures, Normals
+// Subjects=10
+16.44	-102.2	6.54
+52.63	-77.12	-2.67
+
+// Malhi G S, 2004: Negative vs. Reference Pictures, Normals
+// Subjects=10
+27.04	39.78	52.51
+3.55	39.82	55
+20.7	31.63	57.72
+3.6	27.13	56.07
+-.62	12.3	57.36
+14.22	39.71	52.66
+-2.8	24.97	56.32
+-13.6	50.12	52.11
+29.23	31.51	55.41
+48.52	12.42	54.55
+42.12	12.55	56.85
+42.08	18.73	54.1
+65.43	12.75	29.8
+46.5	-10.51	60.96
+71.85	6.28	28.04
+74.02	-4.29	28.9
+-53.98	-7.06	59.6
+6.08	-65.91	63.84
+35.97	-57.27	62.77
+-2.46	-65.96	63.94
+-36.72	-51.37	63.11
+-45.29	-38.56	64.37
+-62.49	-52.89	45.69
+-53.9	-59.01	48.34
+57.21	-58.52	44.79
+-47.13	-55.2	97.01
+67.82	-50.51	37.31
+55.06	-71.9	37.02
+-44.07	11.36	-33.51
+-44.03	5.19	-30.76
+-3.1	-39.55	-7.41
+-7.39	-33.23	-7.89
+1.72	-88.8	43.51
+-26.06	-93.37	41.98
+-26.07	-86.85	43.66
+-23.88	-86.32	50.28
+42.31	-82.21	42.49
+42.28	-75.87	41.96
+-2.5	-57.5	63.23
+
+// Malhi G S, 2004: Positive vs. Reference Pictures, Normals
+// Subjects=10
+-.98	54.65	27.05
+-9.63	75.58	23.16
+-9.65	66.6	17.22
+27	41.56	47.9
+22.36	75.08	13.91
+-2.96	34.35	39.92
+-62.61	0.84	52.34
+-64.83	4.37	43.15
+-56.08	-30.85	54.92
+-56.03	-61.14	48.54
+-69.49	2.52	-7.94
+12.43	-95.08	43.91
+1.79	-63.99	61.5
+16.74	-85.91	52.01
+8.18	-86.13	49.9
+
+// Malhi G S, 2004: Positive vs. Negative Pictures, Normals
+// Subjects=10
+1.76	54.28	-33.17
+54.76	26.06	37.73
+56.86	25.73	33.27
+76.01	13.9	16.2
+65.42	14.87	29.62
+65.32	9.44	14.46
+-7.2	1.74	31.56
+3.4	20.67	27.62
+1.47	-25.53	35.97
+76.05	5.62	19.12
+67.6	4.31	30.48
+23.13	-33.4	69.84
+50.64	-16.26	41.32
+29.45	-62.91	45.48
+61.35	-26.94	39.86
+44.33	-37.27	45.39
+44.42	-38.53	56.64
+35.82	-43.5	48.24
+24.44	-24.35	-33.53
+-20.49	-20.73	-37.78
+-33.32	-1.09	-30.36
+-4.73	-67.35	46.24
+
+// Harenski C L, 2006: Watch, Moral > Number Discrimination
+// Subjects=10
+63	27	9
+-21	-6	-15
+-12	39	54
+-9	30	63
+9	57	18
+9	69	21
+30	-45	-12
+
+// Harenski C L, 2006: Watch, Non-moral > Number Discrimination
+// Subjects=10
+-15	54	39
+3	-63	15
+-6	51	21
+-9	27	63
+18	-3	-27
+
+// Harenski C L, 2006: Watch, Moral > Watch, Non-moral
+// Subjects=10
+-51	-66	30
+-15	-45	24
+
+// Harenski C L, 2006: Watch, Non-moral > Watch, Moral
+// Subjects=10
+-39	39	39
+
+// Harenski C L, 2006: Decrease, Moral > Number Discrimination
+// Subjects=10
+42	30	-18
+-54	27	0
+60	36	15
+12	66	30
+-12	66	27
+-18	54	39
+-9	36	60
+12	27	66
+-30	-93	21
+51	-66	15
+-45	-81	18
+15	-99	3
+
+// Harenski C L, 2006: Decrease, Non-moral > Number Discrimination
+// Subjects=10
+0	39	54
+63	27	9
+15	18	69
+-24	0	-27
+42	33	-18
+33	-81	18
+42	-48	-27
+-45	-84	6
+-12	-102	12
+0	-87	-12
+
+// Harenski C L, 2006: Decrease, Moral > Watch, Moral
+// Subjects=10
+45	14	-3
+3	17	-8
+-39	17	-8
+-30	47	17
+-12	18	60
+-12	23	49
+-3	9	55
+
+// Harenski C L, 2006: Decrease, Moral > Decrease, Non-moral
+// Subjects=10
+6	-72	33
+-6	60	6
+0	51	-3
+-12	15	66
+-21	48	21
+42	33	30
+-27	39	33
+-36	15	48
+3	36	-3
+-51	-66	9
+57	-66	9
+39	-63	21
+-45	33	-18
+
+// Harenski C L, 2006: Decrease, Non-moral > Decrease, Moral
+// Subjects=10
+45	-33	45
+
+// Gusnard D A, 2001: Internally Cued Condition (ICC) > Fixation
+// Subjects=24
+-3.88	8.42	48.8
+
+// Gusnard D A, 2001: Internally Cued Condition (ICC) > Externally Cued 
+// Subjects=24
+-8.35	45.95	39.01
+-2.14	59.25	17.75
+-10.34	29.87	51.54
+-10.43	36.59	42.05
+8.59	50.94	19.44
+-2.22	45.19	1.09
+
+// Ochsner K N, 2004: Self Judgment > In-Out
+// Subjects=13
+-6	52	32
+0	56	36
+-12	58	44
+-12	36	52
+0	56	36
+-12	58	44
+-26	58	30
+-20	66	34
+-28	50	32
+16	34	52
+-10	56	14
+2	56	24
+-2	56	8
+-4	26	28
+2	-18	40
+-8	-48	34
+-4	-56	22
+-12	-54	26
+-52	16	-10
+-52	12	2
+-52	22	12
+-60	-34	-2
+52	-38	0
+46	-44	4
+-54	-70	46
+-2	8	8
+
+// Ochsner K N, 2004: Other Judgment > In-Out
+// Subjects=13
+-2	56	10
+-2	56	22
+6	54	26
+-6	52	32
+2	56	40
+44	-42	6
+52	-38	2
+56	-70	6
+-10	-58	32
+-8	-52	24
+-18	-56	30
+28	-26	-10
+
+// Ochsner K N, 2004: Self Judgment + Other Judgment > In-Out
+// Subjects=13
+2	56	40
+-4	52	32
+2	58	12
+6	54	26
+-2	54	24
+-18	38	54
+-10	38	56
+-26	56	30
+-52	22	12
+-6	-60	30
+-14	-58	32
+-4	-54	24
+46	-40	2
+-60	-42	2
+-64	-32	12
+
+// Ochsner K N, 2004: Self Judgment > Other Judgment
+// Subjects=13
+-2	58	38
+-2	50	16
+-62	-34	-6
+
+// Ochsner K N, 2004: Other Judgment > Self Judgment
+// Subjects=13
+-58	6	18
+-58	12	24
+2	-80	6
+-2	-80	16
+
+// Grimm S, 2008: Correlations of Post Scan Ratings of Positive Valence, unEJ 
+// Subjects=29
+-38	22	28
+
+// Grimm S, 2008: Correlations of Post Scan Ratings of Negative Valence, unEJ 
+// Subjects=29
+-40	6	40
+
+// Johnstone T, 2007: Healthy Controls, Decrease > Attend
+// Subjects=18
+-47	24	0
+-42	10	44
+44	14	-1
+
+// Johnstone T, 2007: Healthy Controls, Attend > Decrease
+// Subjects=18
+39	-55	41
+-57	-18	7
+32	46	25
+
+// Kalin N H, 1997: Patient 1 and Patient 2 Control Activations for positive 
+// Subjects=20
+-40.85	-73.45	0.02
+
+// Harenski C L, 2008: Moral vs. Non-Moral, Normal Males and Females
+// Subjects=14
+12	45	-12
+-6	-54	9
+12	-48	3
+-51	-72	24
+54	-66	33
+21	-33	-18
+-24	36	51
+-12	-72	60
+-21	6	69
+0	-12	-15
+
+// Harenski C L, 2008: Moral vs. Non-Moral, Normal Females
+// Subjects=14
+12	45	-9
+-6	-57	24
+3	60	6
+-51	-72	24
+51	-69	36
+-24	-36	-18
+-12	-72	60
+
+// Harenski C L, 2008: Moral vs. Non-Moral, Normal Males
+// Subjects=14
+-6	54	6
+-9	-54	9
+9	-48	6
+-6	-60	36
+-3	-36	36
+-54	-60	27
+21	-36	51
+-24	-30	-18
+-6	-66	57
+-21	6	72
+9	-24	-15
+0	-15	-15
+54	-72	12
+-9	-33	-36
+
+// Harenski C L, 2008: Positive Modulation of Violation Severity Ratings, 
+// Subjects=14
+6	-51	27
+0	51	-15
+-45	-75	36
+-21	-3	-27
+
+// Harenski C L, 2008: Positive Modulation of Violation Severity Ratings, 
+// Subjects=14
+-3	-57	21
+-12	-57	30
+-30	6	12
+
+// Harenski C L, 2008: Positive Modulation of Violation Severity Ratings, 
+// Subjects=14
+-42	-78	36
+
+// Harenski C L, 2008: Negative Modulation of Violation Severity Ratings, 
+// Subjects=14
+36	21	3
+42	9	27
+0	-36	-42
+-45	-72	15
+
+// Harenski C L, 2008: Negative Modulation of Violation Severity Ratings, 
+// Subjects=14
+3	18	51
+
+// Harenski C L, 2008: Negative Modulation of Violation Severity Ratings, 
+// Subjects=14
+36	21	3
+
+// Knutson B, 2008: Positive Pictures > Negative Pictures
+// Subjects=15
+-7.71	40.36	-19.63
+12.65	24.62	-18.54
+-26.87	20.15	-17.72
+-3.25	17.09	-4.35
+-11.82	12.38	-9.43
+8.48	9.16	-11.62
+21.3	9.24	-11.78
+36.69	4.98	41.93
+53.74	8.97	36.94
+-58.48	-57.72	10.37
+-51.04	-54.85	5.58
+-2.84	-56.7	18.56
+42.08	-60.41	21.7
+-43.34	-85.49	21.44
+
+// Knutson B, 2008: High > Low-Risk Shift
+// Subjects=15
+36.35	25.58	5.64
+-7.56	24.38	-6.03
+5.34	14.23	-.86
+-11.81	4.81	-11.03
+13.83	7.08	-11.51
+
+// Knutson B, 2008: Gain vs Loss Outcome
+// Subjects=15
+0.87	67.16	-4.13
+-14.93	14.45	3.81
+20.26	9.49	-8.44
+-18.21	9.26	-7.98
+49.36	12.23	24.45
+-58.73	1.15	0.97
+1.41	-53.59	17.14
+24.83	-78.51	-4.46
+
+// Erk S, 2002: Sports Cars > Small Cars
+// Subjects=12
+-48	-78	0
+30	-54	-15
+9	3	-6
+-3	33	-18
+-3	45	12
+45	15	30
+-45	3	36
+
+// Erk S, 2002: Sports Cars > Limousines
+// Subjects=12
+-3	54	12
+-42	-45	-6
+
+// Erk S, 2002: Limousines > Sports Cars
+// Subjects=12
+33	-18	15
+-6	-87	-6
+
+// Erk S, 2002: Limousines > Small Cars
+// Subjects=12
+-9	-96	-15
+54	15	30
+
+// Mak A K Y, 2009: Regulate Negative > View Negative, Males
+// Subjects=12
+-8	48	24
+-40	28	-4
+-16	52	32
+4	40	4
+
+// Mak A K Y, 2009: Regulate Negative > View Negative, Females
+// Subjects=12
+-8	48	24
+-16	20	-16
+
+// Mak A K Y, 2009: Regulate Positive > View Positive, Males
+// Subjects=12
+-4	44	36
+-40	24	-12
+
+// Mak A K Y, 2009: Regulate Positive > View Positive, Females
+// Subjects=12
+-4	44	36
+
+// Walter M, 2008: Bodily-Emotional Positive Pictures > Non-Bodily-Emotional 
+// Subjects=21
+-9	9	3
+9	6	6
+-3	12	-9
+6	0	-12
+0	39	6
+3	57	3
+6	51	30
+-51	-78	0
+54	-72	0
+-36	-60	57
+27	-60	60
+3	-66	36
+42	-45	24
+-3	-6	-9
+18	-3	-15
+
+// Walter M, 2008: (Positive Bodily > Positive Non-Bodily) ^ (Positive > 
+// Subjects=21
+0	12	-3
+-2	11	-11
+0	39	6
+3	57	3
+54	-72	-6
+3	-66	48
+
+// Walter M, 2008: Signal Correlation with Sexual Intensity
+// Subjects=21
+-3	15	-3
+-6	48	-9
+33	-39	48
+
+// Walter M, 2008: (Positive Bodily > Positive Non-Bodily) ^ (Negative Bodily 
+// Subjects=21
+-9	9	6
+9	9	3
+-9	3	-13
+-6	51	27
+-51	-75	-6
+54	-66	0
+-33	-57	54
+33	-57	57
+9	-63	39
+45	-42	-24
+
+// Walter M, 2008: (Bodily-Emotional > Non-Bodily-Emotional) ^ 
+// Subjects=21
+-15	3	-18
+18	0	-18
+9	0	0
+3	-24	0
+-48	-81	0
+51	-69	0
+42	-45	-24
+39	33	-9
+-6	54	30
+
+// Domes G, 2010: Negative Pictures > Neutral Pictures, Males and Females
+// Subjects=16
+51	-63	0
+48	-39	-21
+45	-51	-12
+-54	-69	6
+-45	-39	-21
+-66	-27	33
+-33	-45	48
+-45	-33	39
+6	60	27
+6	54	39
+54	-27	36
+3	15	27
+-6	18	27
+-9	27	30
+-21	-3	-12
+21	15	3
+12	-9	6
+51	15	21
+36	-45	57
+54	0	48
+-24	-9	48
+-3	-66	36
+54	36	6
+42	36	9
+
+// Domes G, 2010: Decrease Emotions > Maintain Emotions, Females and Males
+// Subjects=16
+-3	12	60
+12	3	66
+-45	0	51
+-54	21	-3
+-60	15	24
+-36	15	3
+54	27	-6
+60	24	6
+60	15	-3
+57	-42	27
+33	42	27
+33	30	33
+-63	-51	21
+-63	-33	0
+-66	-48	6
+-30	48	27
+51	3	48
+
+// Domes G, 2010: Increase Emotions > Maintain Emotions, Females and Males
+// Subjects=16
+0	6	63
+-3	18	39
+-6	12	24
+-51	12	0
+-60	15	24
+-12	-33	3
+6	-45	3
+-18	-12	-12
+45	12	6
+48	-54	-36
+36	-51	-33
+-57	-42	24
+-6	-66	63
+-6	-75	57
+57	0	48
+-3	-63	-15
+9	0	-6
+-12	57	36
+-33	48	30
+21	-24	-9
+
+// Koenigsberg H W, 2009: Distance > Look, Negative Pictures, Healthy Controls
+// Subjects=16
+-40	-56	38
+50	-56	40
+-58	-52	-6
+62	-36	2
+4	-24	36
+36	56	4
+
+// Koenigsberg H W, 2009: Look > Distance, Negative Pictures, Healthy Controls
+// Subjects=16
+2	-86	0
+-40	-78	14
+44	-72	-6
+-50	-32	56
+-40	-12	62
+
+// Goldstone A P, 2009: High-Calorie > Low-Calorie, Fasted
+// Subjects=20
+-36	-46	-32
+28	-40	-30
+-8	-24	50
+-36	10	-16
+34	2	-24
+38	-10	-14
+-26	48	34
+2	2	70
+-24	36	54
+-46	4	54
+54	-44	12
+-38	18	-28
+-16	-8	54
+-20	-38	2
+-34	-40	64
+18	-74	-24
+-8	-78	0
+30	34	-16
+62	-4	0
+-20	66	6
+42	40	-2
+54	-24	44
+-14	-46	-4
+40	16	-36
+-14	56	-8
+26	34	54
+-54	-72	18
+-64	-56	16
+56	-10	24
+12	-54	-52
+8	20	30
+58	14	34
+10	28	62
+60	10	-16
+-20	-8	74
+-32	-20	68
+-50	-24	24
+-10	14	36
+
+// Goldstone A P, 2009: High-Calorie > Low-Calorie, Fed
+// Subjects=20
+36	-8	18
+50	-62	-12
+-38	-50	-14
+-48	-66	-2
+
+// Han S, 2010: Death-Related > Neutral-Valence Words
+// Subjects=20
+-4	48	36
+-6	-58	38
+-32	-66	40
+40	-64	28
+44	16	38
+-48	24	20
+
+// Han S, 2010: Negative-Valence > Neutral-Valence Words
+// Subjects=20
+-6	42	22
+-8	60	18
+-12	-74	14
+-8	-58	46
+30	24	46
+24	48	30
+42	-30	12
+
+// Han S, 2010: Negative-Valence > Death-Related Words
+// Subjects=20
+0	14	28
+-40	-14	12
+42	-8	8
+
+// Herwig U, 2011: High Risk > Low Risk, First Volume
+// Subjects=18
+13.91	-6.33	-5.93
+-8.49	-9.38	-2.07
+49.56	-68.02	18.91
+-43.37	-71.49	23.61
+-7.98	-70	39.81
+-56.57	-42.5	-13.24
+
+// Lieberman M D, 2007: Affect Labeling > Gender Labeling
+// Subjects=30
+54	24	-10
+48	46	-6
+56	18	8
+
+// Meriau K, 2009: Aversive > Neutral
+// Subjects=23
+2	58	40
+-2	62	24
+-16	-4	-14
+16	-4	-16
+-14	-92	42
+10	-88	42
+30	-56	58
+52	-74	0
+
+// Meriau K, 2009: Positive Correlation between State Negative Affect Scores 
+// Subjects=23
+-40	0	-4
+
+// Meriau K, 2009: Aversive > Neutral Activations Associated with Skin 
+// Subjects=18
+50	52	-4
+-36	54	2
+42	18	-6
+40	24	-18
+-12	-32	2
+-34	-36	2
+38	-70	32
+4	-92	22
+
+// Nakic M, 2006: High Negative > Neutral Words
+// Subjects=13
+-60.92	-11.52	-11.32
+-46.58	-66.05	25.43
+49.02	-5.54	-26.47
+11.63	45.99	-3.6
+-1.74	-64.01	20.28
+
+// Onoda K, 2008: Conjunction Analysis: Anticipation of Affective Pictures
+// Subjects=18
+-4	14	54
+-44	8	34
+46	10	26
+-40	-4	50
+-32	22	-2
+34	22	-2
+-26	-60	44
+14	70	-10
+-14	-70	44
+14	-82	-10
+
+// Onoda K, 2008: Anticipation of Certain Negative > Anticipation of Certain 
+// Subjects=18
+4	22	24
+
+// Onoda K, 2008: Conjunction Analysis: Perception of Affective Pictures
+// Subjects=18
+0	16	50
+44	14	22
+-46	8	32
+-34	20	-2
+-40	-2	58
+-24	-62	46
+8	-90	-2
+
+// Onoda K, 2008: Positive Pictures > Negative Pictures
+// Subjects=18
+58	-2	26
+
+// Pereira M G, 2010: Unpleasent Viewing vs. Neutral Viewing
+// Subjects=11
+-38	-84	8
+-32	-14	16
+
+// Pereira M G, 2010: Detection after Unpleasant vs Detection after Neutral
+// Subjects=11
+-40	-40	52
+-26	-20	68
+-58	-4	42
+-18	-2	56
+-4	8	46
+-18	4	12
+
+// Wright P, 2004: Fear > Neutral
+// Subjects=8
+50.45	-64.44	-3.7
+-43.57	-67.03	-1.29
+-26.58	-40.49	-3.71
+
+// Wright P, 2004: Contamination > Neutral
+// Subjects=8
+34.14	22.69	-4.13
+-39.64	29.47	-6.08
+48.22	21.4	19.23
+49.28	-51.21	-11.49
+
+// Yoshino A, 2010: Pain > No Pain
+// Subjects=15
+-2	8	32
+40	-12	8
+-38	-12	6
+10	-16	10
+-8	-20	0
+30	-4	-14
+60	-20	20
+-60	-20	12
+34	52	24
+
+// Corbett B A, 2009: Emotion > Control, Healthy Controls
+// Subjects=15
+54.39	17.83	29.7
+39.85	-52.6	-22.47
+-18.44	-12	-9.81
+-21.65	-38.05	-12.78
+-18.46	-36.23	-16.38
+-49.62	-63.47	-7.55
+
+// Vorhold V, 2007: Risk Rating > Letter Decision
+// Subjects=13
+-6	54	33
+-42	33	-21
+33	87	-42
+
+// Dougal S, 2007: Emotional > Control
+// Subjects=14
+-32.11	-12.83	-17.12
+37.24	-20.13	-35.15
+-32.09	-10.46	-13.97
+19.23	-12.01	-11.09
+
+// Dougal S, 2007: Neutral > Emotional
+// Subjects=14
+-26.66	-34.75	-12
+33.19	-36.51	-12.54
+
+// Dougal S, 2007: Emotional > Neutral
+// Subjects=14
+-24.62	-9.44	-15.26
+
+// Dougal S, 2007: Emotional and Neutral > Control
+// Subjects=14
+-16.04	-10.11	-10.84
+-35.34	-12.05	-20.49
+-35.49	-5.85	-36.63
+-29.95	-11.51	-13.91
+-29.95	-11.51	-13.91
+-35.34	-12.05	-20.49
+
+// Kensinger E A, 2007: Task-Correct Negative and Neutral > Control
+// Subjects=20
+30	56	17
+-48	-59	-10
+53	-64	-4
+-48	-52	-5
+27	-50	5
+21	-32	-14
+-18	-7	-22
+-32	-8	-25
+-30	-8	-35
+36	-21	-20
+36	-15	-17
+-21	-9	-20
+-18	3	-12
+-21	5	-15
+
+// Kensinger E A, 2007: Task-Correct Negative > Task-Correct Neutral
+// Subjects=20
+-12	29	46
+-35	41	0
+30	-6	28
+30	-37	25
+56	-61	-2
+33	-2	-35
+-50	-67	-7
+-41	-56	-5
+-29	-36	-13
+-30	-5	-33
+38	-21	-14
+33	-4	-25
+27	0	6
+-3	7	16
+6	-25	15
+-32	-39	-21
+
+// Kensinger E A, 2008: Young and Old: Recognition of Positive and Negative 
+// Subjects=17
+15	-5	-18
+30	14	-14
+46	-38	36
+
+// Kensinger E A, 2008: Young and Old: Recognition of Negative Items > Control
+// Subjects=17
+20	-64	-3
+
+// Kensinger E A, 2008: Young and Old: Recognition of Positive Items > Control
+// Subjects=17
+20	66	7
+-28	59	21
+-52	30	8
+16	-47	32
+-63	-54	6
+-57	-36	11
+-21	-18	-11
+14	-32	25
+
+// Kensinger E A, 2008: Old: Recognition of Positive Items > Control
+// Subjects=17
+0	33	-10
+-8	26	10
+10	11	25
+-8	-45	26
+
+// Kensinger E A, 2005: Accurate Emotional Word-Picture Identification > 
+// Subjects=16
+-44	48	-13
+-35	-26	59
+-53	-20	18
+-36	-65	42
+-39	-41	57
+18	-3	-17
+
+// Kensinger E A, 2005: Accurate Emotional Word-Only Identification > Control
+// Subjects=16
+-12	34	-7
+-30	37	42
+45	-9	53
+54	-18	51
+-9	-50	44
+62	-43	10
+47	-49	0
+62	0	-10
+45	12	-33
+50	-1	-22
+-56	-6	-22
+20	-18	-18
+-27	-9	-22
+21	-12	-22
+
+// Kensinger E A, 2005: Accurate Retrieval of Emotional Items (Emotional 
+// Subjects=16
+-15	48	36
+39	36	18
+36	39	21
+35	6	11
+-32	-42	26
+45	-39	32
+18	-24	37
+-59	-21	-16
+50	-50	-5
+-21	-6	-18
+24	9	13
+5	-3	-9
+
+// Kensinger E A, 2005: Accurate Retrieval of Neutral Items (Neutral Corect 
+// Subjects=16
+-35	43	-17
+-35	13	-21
+48	-50	0
+-56	-54	25
+-41	-61	-14
+41	-70	-12
+-41	-71	40
+15	-2	-20
+
+// Kensinger E A, 2004: Regions Activated During Encoding > Control
+// Subjects=28
+-21	-102	0
+27	-99	-3
+33	-93	-6
+-48	-42	54
+54	-33	51
+-54	24	-9
+-51	36	15
+-51	18	30
+48	24	-15
+-48	33	27
+48	42	15
+-3	27	42
+-6	18	66
+-30	9	60
+0	18	51
+27	6	-18
+-30	-15	-12
+-27	-3	-12
+27	0	-18
+30	3	-6
+-24	-6	6
+
+// Mackiewicz K L, 2006: Anticipation and Picture Periods: Aversive > Neutral
+// Subjects=30
+21.32	-2.65	-14.13
+-19.29	-2.9	-13.64
+31	-22.86	-14.77
+-29.9	-23.05	-11.83
+
+// Mackiewicz K L, 2006: Regression of delayed aversive memory (d') on 
+// Subjects=30
+24.48	-6.41	-21.65
+-21.5	-2.62	-23.67
+
+// Mackiewicz K L, 2006: Regression of delayed aversive memory (Pr) on 
+// Subjects=30
+23.41	-6.41	-21.64
+-22.57	-2.63	-23.66
+
+// Mickley K R, 2008: Positive and Negative Items, Recognized > Forgotten
+// Subjects=20
+-29.42	41.35	-12.66
+-40.01	-35.89	-11.56
+46.45	-37.5	-10.63
+-12.11	-2.17	-19.85
+25.23	-4.06	26.76
+24.91	-23.98	-2.64
+-7.26	-22.23	17.91
+9.52	-39.08	-25.53
+40.05	-65.38	-10
+
+// Mickley K R, 2008: Negative Items, Remembered > Known
+// Subjects=20
+-29.37	-30.51	-23.48
+50.97	-60.05	0.49
+-48.48	-60.82	-2.22
+-44.07	-68.9	2.98
+-56.03	-62.97	-1.88
+
+// Mickley K R, 2008: Negative and Positive Items, Remembered > Known
+// Subjects=20
+25.69	46.01	-11.82
+
+// Mickley K R, 2008: Positive Items,  Known > Remembered
+// Subjects=20
+34.09	17.3	48.03
+-16.47	29.28	-16.17
+6.03	-1.19	46.98
+12.36	-31.86	28.61
+-55.86	-5.93	22.73
+-34.87	-45.05	50.89
+-47.87	-33.29	51.07
+-62.73	1.03	-5.86
+29.26	6.95	6.55
+-12.07	23.33	-11.17
+
+// Mickley K R, 2008: Negative Items, Known > Remembered
+// Subjects=20
+27.64	15.35	50.57
+1.49	-14.88	27.12
+9.63	-18.59	-13
+
+// Mickley K R, 2008: Negative and Positive Items, Known > Remembered
+// Subjects=20
+-4.85	51.82	52
+34.12	15.38	50.46
+27.49	-16.4	32.43
+-39.58	-21.72	25.13
+
+// Mickley K R, 2009: Emotional Items > Neutral Items
+// Subjects=19
+55	29	6
+-4	63	17
+8	59	19
+40	-82	23
+-36	-91	14
+-53	-70	7
+-22	-91	16
+-22	-99	9
+-38	-91	3
+28	-93	8
+22	-99	3
+44	-70	-5
+30	-90	23
+36	-42	11
+40	-60	-4
+46	-49	-4
+40	-73	24
+48	-64	0
+-55	-68	0
+36	-34	-17
+48	-45	-11
+42	-40	17
+-22	-5	-15
+32	-13	-18
+34	-8	-10
+36	-16	-8
+-8	8	-4
+-30	-44	-16
+-28	-34	-18
+
+// Mickley K R, 2009: Arousing (Remembered - Forgotten) > Non-Arousing 
+// Subjects=19
+-55	-35	39
+-26	-71	9
+36	-3	26
+-16	-22	-19
+48	5	26
+
+// Ritchey M, 2008: Encoding Success Activity (ESA) Emotional > ESA Neutral
+// Subjects=13
+26	3	-23
+-19	3	-19
+-48	29	6
+-56	-48	-17
+37	-64	35
+
+// Ritchey M, 2008: ESA Neutral > ESA Emotional
+// Subjects=13
+30	-33	-2
+4	22	-4
+-19	-13	39
+-11	18	3
+15	12	17
+-26	-18	4
+63	-33	5
+45	-54	3
+-37	-51	-7
+33	-52	-23
+-37	-59	-16
+30	-76	11
+
+// Ritchey M, 2008: Recollection Persistence for Emotional Stimuli
+// Subjects=13
+-22	-4	-13
+-37	-77	-9
+
+// Ritchey M, 2008: Recollection Persistence for Emotional and Neutral Stimuli
+// Subjects=13
+-45	2	35
+-37	-77	-9
+
+// Ritchey M, 2008: Emotional > Neutral Encoding (long- vs. short-delay hits)
+// Subjects=13
+30	-1	-26
+-19	-8	-22
+7	38	37
+59	-24	36
+56	-38	37
+
+// Ritchey M, 2008: Emotional > Neutral Encoding (short- vs. long-delay hits)
+// Subjects=13
+-19	44	15
+
+// Sergerie K, 2006: Encoding: Fearful Remembered vs. Forgotten
+// Subjects=18
+-34	-54	42
+38	-56	50
+34	-62	36
+30	2	-34
+
+// Sergerie K, 2006: Encoding: Fearful Remembered > Neutral Remembered
+// Subjects=18
+-32	34	10
+-36	38	4
+30	0	-34
+42	-4	34
+
+// Sergerie K, 2006: Recognition: Fearful Remembered > Forgotten
+// Subjects=18
+-4	-50	12
+-38	-78	42
+-38	-58	-20
+-50	-58	-18
+-38	-80	-16
+-24	-8	-20
+14	38	4
+20	-44	28
+20	-66	50
+48	-38	32
+56	-38	0
+16	-48	-12
+8	-4	10
+20	-10	-14
+
+// Sergerie K, 2006: Recognition: Fearful Remembered > Neutral Remembered
+// Subjects=18
+-40	8	-30
+-20	-4	-12
+-14	-8	-24
+-16	-34	10
+
+// Talmi D, 2008: HA > LA: Emotional Pictures
+// Subjects=11
+18.69	-58.2	38.52
+-30.54	-81.27	19.83
+49.35	6.68	21.57
+33.57	-4.04	49.42
+-47.85	3.19	26.33
+-26.15	-6.38	65.91
+-6.12	18.3	39.08
+-.94	29.82	22.44
+20.59	-23.35	21.07
+-5.09	-19.36	19.92
+10.76	-1.43	2.62
+19.42	-29.85	6.02
+35.25	21.98	0.38
+-36.34	17.23	0.48
+2.26	-27.29	-.69
+-23.44	20.28	11.23
+28.03	2.67	26.61
+
+// Talmi D, 2008: Emotional Pictures > Neutral Pictures: LA
+// Subjects=11
+-47.88	-78.32	-9.22
+36.67	-91.84	0.98
+-26.21	-83.91	26.69
+-19.3	2.48	-12.98
+27.4	-81.79	49.31
+-57.73	-9.47	-12.65
+-38.47	-23.36	-15.05
+-39.67	32.39	-9.67
+-7.19	-47.55	13.39
+
+// Talmi D, 2008: Spatial Overlap: Content-Indepenent Attention and Emotion
+// Subjects=11
+25.19	-64.97	46.81
+-27.27	-78.37	29.58
+-40.33	-83.04	-2.22
+-34.86	-87.27	11.46
+37.82	-83.32	14.75
+42.91	-61.74	-9.42
+-34.13	-52.31	-18.25
+
+// Talmi D, 2008: Spatial Overlap: Content-Dependent Attention and Emotion
+// Subjects=11
+-44.49	-78.61	14.19
+-27.28	-79.6	27.46
+-42.49	-59.2	3.62
+49.48	-74.33	6.06
+37.82	-83.32	14.75
+51.38	-50.49	-16.04
+25.18	-63.91	46.73
+-56.07	-50.48	48.76
+51.8	-46.12	40.47
+-8.25	-49.76	12.47
+
+// Talmi D, 2008: Differences due to memory (Dm) Emotional > Dm Neutral: EEM
+// Subjects=11
+-50.06	-72.24	-13.05
+-46.91	-55.22	-13.4
+-36.48	1.52	-23.85
+39.37	-8.14	-31.72
+-22.58	-5.97	-25.61
+-64.19	0.98	-14.56
+
+// Keil A, 2012: Picture vs. Baseline
+// Subjects=11
+-10	-86	-1
+11	-85	-9
+-19	-78	7
+21	-80	5
+-22	-82	-5
+32	-75	-11
+-36	-71	5
+38	-66	7
+-21	-45	48
+54	-53	-21
+-48	-38	27
+54	-53	-21
+-14	-39	53
+6	-34	52
+33	-21	54
+33	-35	45
+
+// Keil A, 2012: Emotion vs. Neutral Content
+// Subjects=11
+-10	-86	-1
+11	-85	-9
+-19	-78	7
+21	-80	5
+-22	-82	-5
+32	-75	-11
+-36	-71	5
+38	-66	7
+54	-53	-21
+-48	-38	27
+48	-33	30
+
+// Oei N Y L, 2012: Emotional > Neutral Distractors
+// Subjects=40
+42	-62	-12
+-52	-70	12
+-36	30	-2
+52	30	4
+22	-4	-18
+-30	-10	-36
+54	8	-32
+38	0	-16
+
+// Masten C L, 2012: Social Exclusion vs Control
+// Subjects=21
+42	27	-9
+-45	18	-15
+0	15	27
+54	-69	3
+63	-42	24
+39	-51	-15
+9	-54	60
+-48	-72	12
+-57	-48	27
+42	3	54
+0	54	15
+45	24	24
+3	54	39
+6	6	9
+-3	-30	-3
+-15	-78	-30
+-30	9	-24
+-24	0	69
+-39	-60	-12
+6	-42	-36
+-24	-72	36
+-42	15	24
+15	-3	-15
+27	54	9
+12	27	21
+
+// Moseley R, 2012: All emotion words > Baseline
+// Subjects=18
+-56	4	24
+-50	-10	44
+-44	26	-2
+60	2	38
+8	22	52
+-8	22	38
+6	40	10
+-10	54	12
+-28	34	-5
+-56	-34	2
+-38	-44	-14
+-40	-62	-12
+-48	-34	38
+-52	-38	30
+8	-62	2
+-2	-70	2
+
+// Moseley R, 2012: Abstract emotion words > Baseline
+// Subjects=18
+-56	4	24
+-48	-12	40
+-56	-8	44
+56	0	40
+60	2	24
+-10	56	12
+8	52	8
+-60	-34	2
+-40	-40	-14
+-44	-74	-8
+-48	16	-26
+50	-32	24
+36	-64	2
+16	-50	64
+28	24	6
+34	-16	22
+
+// Powers K E, 2011: Social > Non-social
+// Subjects=34
+6	54	21
+9	63	9
+3	-60	30
+54	-6	-27
+-54	-6	-21
+-18	-9	-18
+3	9	-18
+-6	51	-21
+36	-45	60
+-63	-9	39
+-39	-6	48
+45	0	39
+-39	12	-33
+57	-75	6
+-54	-81	3
+3	-12	6
+3	-33	-6
+45	-51	-27
+-45	-48	-27
+
+// Greck M D, 2012: Intentional empathy for familiar angry > baseline - 
+// Subjects=16
+-43.59	-.22	23.22
+-40.35	-22.92	18.39
+30.34	15.48	54.51
+-4.89	2.41	53.78
+11.09	-1.26	46.09
+-28.75	-26.59	-2.62
+-18.16	-12.15	-9.53
+35.86	88.66	-31.99
+39.53	-61.44	-32.82
+-15.46	94.7	-31.91
+-41.07	52.02	-44.76
+-30.93	57.47	24.92
+-24.66	79.2	16.34
+-5.36	83.26	25.81
+42.98	-2.87	22.44
+33.23	-24.02	-2.44
+23.57	-11.39	-3.38
+26.64	66.31	10.14
+33.22	74.75	36.12
+-2.41	34.5	-27.01
+8.29	34.65	-26.03
+26.49	35.19	-20.71
+-50.44	47.93	-14.2
+-21.62	34.64	-23.45
+-5.33	34.14	9.86
+
+// Greck M D, 2012: Intentional empathy for familiar angry > baseline, Chinese 
+// Subjects=16
+-45.64	-4.83	32.55
+
+// Greck M D, 2012: Intentional empathy for familiar angry > baseline, Chinese 
+// Subjects=16
+59.93	51.76	25.47
+61.78	16.91	-26.27
+57.7	-11.78	-11.55
+-42.8	-.92	-13.54
+
+// Kemp A H, 2007: Healthy Control
+// Subjects=32
+8	26	56
+-10	58	8
+-26	4	-18
+26	-6	-16
+
+// New A S, 2009: Control - non-PTSD, diminish - maintain
+// Subjects=14
+4	-24	26
+-22	12	48
+14	26	48
+-34	16	56
+-34	-66	48
+10	6	16
+
+// New A S, 2009: Non-PTSD - control, diminish - maintain
+// Subjects=14
+50	-66	2
+56	10	0
+18	-84	40
+38	-82	-4
+
+// New A S, 2009: Non-PTSD - control, enhance - maintain
+// Subjects=14
+-4	2	42
+
+// Bryant R, 2008: Control, Fear >Neutral
+// Subjects=15
+-16	2	-16
+18	4	-16
+8	58	-12
+
+// Elman I, 2009: Outcome Phase: gain vs loss, Healthy Controls Only
+// Subjects=26
+26	7	-8
+
+// Anders S, 2004: Brain Activations, Significant Peripheral Physiologic 
+// Subjects=16
+-21	-6	-12
+-24	3	-15
+-18	-18	0
+18	-18	45
+33	-39	63
+-57	-27	42
+57	-33	24
+-36	15	12
+3	39	-24
+
+// Barrett J, 2011: Own Positive > Unfamiliar Positive
+// Subjects=22
+52.26	-56.76	-42.29
+-53.6	17.62	-20.54
+-63.05	-7.05	-8.33
+-34.3	-4.64	-21.13
+52.23	21.94	-15.43
+36.04	23.47	-35.45
+-9.52	-5.7	4.33
+
+// Barrett J, 2011: Own Negative > Unfamiliar Negative
+// Subjects=22
+-15.05	15.45	-10.77
+20.18	11.97	-17.57
+27.23	-27.52	49.23
+49.57	-15.21	41.25
+-40.72	1.83	-19.37
+17.33	-96.42	-15.14
+39.52	52.72	12.25
+
+// Barrett J, 2011: Own Positive > Own Negative
+// Subjects=22
+-33.66	-47.43	44.9
+65.41	-13.74	17.52
+33.39	-43.25	10.33
+39.36	54.35	-7.96
+23.94	14.47	55.78
+-2.18	72.02	17.8
+-11.57	34.75	32.18
+17.39	-16.68	25.01
+20.7	-74.88	15.36
+-22.18	19	35.86
+46.11	-8.02	10.57
+36.58	-33.46	12.82
+23.64	8.05	13.94
+49.66	-24.21	48.69
+-14.96	26.25	5.05
+-1.83	19.64	42.26
+10.88	-67.13	-7.48
+14.09	-80.32	-13.11
+
+// de Greck M, 2013: Healthy Subjects: All emotions ("anger" + "disgust" + 
+// Subjects=20
+-46.76	-9.75	24.05
+49.31	-3.6	12.4
+7.88	-54.09	23.8
+49.01	42.7	-8.21
+-49.85	14.49	48.82
+55.88	11.18	37.85
+7.99	6.35	62.22
+23.89	54.54	64.69
+-11.94	12.24	-25.03
+23.35	6.11	-24.92
+17.15	-11.42	-3.31
+-24.02	95.62	-33
+33.7	91.73	-33.34
+-29.38	91.01	-37.01
+-41.02	48.13	-39.97
+47.61	78.79	-36.87
+49.81	53.08	-39.2
+
+// de Greck M, 2013: Healthy Subjects: "Anger" > "Control"
+// Subjects=20
+-49.97	-22.97	18.51
+49.34	-3.35	15.72
+7.97	9.52	61.95
+55.9	11.44	41.17
+-49.84	11.32	49.09
+20.69	57.95	67.78
+-18.31	-.49	-23.89
+23.35	6.11	-24.92
+-41.09	84.77	-34.12
+35.8	91.32	-38.9
+42.28	52.52	-45.76
+
+// de Greck M, 2013: Healthy Subjects: "Disgust" > "Control"
+// Subjects=20
+-46.9	-27.67	-1.21
+-2.72	10.43	60.89
+4.7	7.67	52.11
+-41.09	84.77	-34.12
+29.41	91.54	-35.5
+42.33	46.43	-41.9
+
+// de Greck M, 2013: Healthy Subjects: "Joy" > "Control"
+// Subjects=20
+30.86	-5.57	-25.14
+11.19	6.37	62.18
+-24.78	15.33	-25.14
+21.19	10.24	-26.36
+-37.89	84.79	-34.16
+32.61	88.13	-38.6
+-37.8	49.38	-37.89
+
+// Allen M, 2012: Mindfulness Training, Negative images vs. Neutral, 
+// Subjects=19
+-32	-24	28
+-32	-20	40
+-38	-14	20
+-24	44	26
+-32	42	26
+-12	30	32
+24	24	-22
+28	22	-14
+36	18	-14
+6	46	30
+20	38	30
+2	44	12
+
+// Allen M, 2012: Task by emotion
+// Subjects=19
+30	16	50
+24	-2	56
+-12	12	48
+
+// Lee T M C, 2012: Emotion Processing Task (EPT)-happy, Meditation > 
+// Subjects=11
+-34	22	-6
+-4	34	16
+-26	-60	20
+
+// Lee T M C, 2012: EPT-happy, Loving-kindness Meditation (LKM) Experts > 
+// Subjects=11
+-4	34	16
+42	34	14
+
+// Lee T M C, 2012: EPT-sad, FAM Experts > Novices, Baseline
+// Subjects=11
+-10	40	42
+
+// Lee T M C, 2012: EPT-sad, LKM Experts > Novices, Meditation
+// Subjects=11
+-34	46	18
+-12	6	20
+
+// Lee T M C, 2012: EPT-sad, Meditation > Baseline, FAM Novices
+// Subjects=11
+38	34	12
+
+// Lee T M C, 2012: EPT-sad, Meditation < Baseline, LKM Novices
+// Subjects=11
+14	-4	22
+
+// Lee T M C, 2012: EPT-happy, Meditation > Baseline, FAM Experts
+// Subjects=11
+28	-24	46
+2	8	32
+
+// Lee T M C, 2012: EPT-happy, Meditation > Baseline, FAM Novices
+// Subjects=11
+28	-24	46
+50	-68	-4
+40	-68	-20
+
+// Lee T M C, 2012: EPT-happy, Meditation > Baseline, LKM Experts
+// Subjects=11
+-14	42	26
+18	46	30
+
+// Lee T M C, 2012: EPT-happy, Meditation > Baseline, LKM Novices
+// Subjects=11
+-14	42	26
+18	46	30
+
+// Lee T M C, 2012: EPT-sad, Meditation > Baseline, FAM Experts
+// Subjects=11
+18	-26	-10
+-40	-78	0
+18	-86	30
+-22	-80	10
+-22	-70	8
+
+// Lee T M C, 2012: EPT-sad, Meditation > Baseline, FAM Novices
+// Subjects=11
+18	-26	-10
+-40	-78	0
+18	-86	30
+-22	-70	8
+-22	-80	10
+34	-76	8
+-8	-82	10
+
+// Lee T M C, 2012: EPT-sad, Meditation > Baseline, LKM Experts
+// Subjects=11
+-10	30	48
+-16	24	48
+
+// Lee T M C, 2012: EPT-sad, Meditation > Baseline, LKM Novices
+// Subjects=11
+-10	30	48
+-16	24	48
+
+// Lou H C, 1999: Abstract sense of joy vs. Normal consciousness
+// Subjects=9
+-33.23	-28.76	-30.27
+37.27	-28.68	-35.55
+-17.51	-29.59	67.76
+8.04	-8.46	63.46
+24.96	-56.36	20.45
+-50.35	19.21	-14.02
+-50.07	-10.8	10.8
+-61.1	-78.19	-61.49
+8.13	-95.45	39.53
+
+// Taylor V A, 2011: Main effect of group, All conditions; Activations
+// Subjects=10
+-28.35	28.18	-15.86
+-11.58	-48.5	12.74
+14.56	-53.44	27.35
+27	-32.15	-9.71
+-5.29	-22.61	2.22
+19.58	-29.97	2.53
+19.65	-21.8	9.56
+
+// Taylor V A, 2011: Mindfulness vs. Baseline, Beginners; Activations
+// Subjects=10
+32.84	26.99	37.01
+-26.54	29.22	41.16
+13.43	-49.39	24.73
+42.7	-63.87	29.02
+-29.65	-69.34	31.91
+
+// Escoffier N, 2012: Conjunction: Voice > Rest and Music > Rest
+// Subjects=16
+-60	-23	15
+60	-19	12
+
+// Escoffier N, 2012: Voice > Music
+// Subjects=16
+-54	-16	12
+54	14	-24
+64	-4	-7
+-1	-80	37
+9	-69	45
+
+// Escoffier N, 2012: Music > Voice
+// Subjects=16
+-51	-35	13
+43	-13	-2
+
+// Escoffier N, 2012: Conjunction: Emotion Tracking > Pitch Tracking (Music 
+// Subjects=16
+-4	57	8
+11	45	0
+
+// Goldin P R, 2009: Look Harsh Faces > Look Neutral Scenes, Healthy Controls
+// Subjects=17
+49.38	-75.45	-8.34
+-46.73	-86.34	-2.98
+1.4	-25.15	27.02
+52.91	-53.34	43.29
+63.56	-60.22	35.94
+-46.41	-37.93	58.75
+-13.83	5.99	4.51
+-17.15	-3.94	-13.58
+20.25	-2.66	-14.11
+
+// Goldin P R, 2009: Look Neutral Scenes > Look Harsh Faces, Healthy Controls
+// Subjects=17
+-16.38	-81.71	54.27
+27.39	-63.13	56.67
+-57.57	-53.88	-8.92
+-23.43	-41.07	-11.51
+23.62	-45.99	-10.52
+
+// Goldin P R, 2009: Look Violent Scenes > Look Neutral Scenes, Healthy 
+// Subjects=17
+4.26	58.06	15.55
+4.54	31.31	41.21
+4.67	20.53	53.26
+49.33	22.97	25.78
+59.99	30.44	25.03
+-31.66	1.74	47.45
+34.11	27.89	-5.68
+-32.12	31.01	-.72
+52.58	-75.43	-8.38
+42.81	-50.71	-18.15
+-46.75	-83.17	-3.25
+-41.58	-47.61	-11.86
+-13.51	-103.78	2.56
+31.54	-83.13	31.54
+1.45	-47.7	24.45
+-28.08	-65.77	68.68
+-38.83	-40.2	70.01
+44.65	22.01	-27.62
+56.5	4.36	-22.93
+1.23	-26.95	3.75
+16.14	-24.03	-1.12
+-20.36	-2.9	-13.63
+19.17	-.55	-14.28
+
+// Goldin P R, 2009: Look Neutral Scenes > Look Violent Scenes, Healthy 
+// Subjects=17
+-35.15	6.47	12.52
+-39.26	-26	19.75
+-39.36	-16.02	11.11
+-9.04	-11.73	63.93
+-42.44	-33.42	20.41
+57.04	-5.39	43.68
+63.02	13.26	-4.79
+-68.23	-11.97	11.1
+-31.92	-38.33	-2.72
+-46.96	-9.61	-1.61
+-60.8	-54.16	-12.21
+
+// Goldin P R, 2009: Regulate Harsh Faces > Look Harsh Faces, Healthy Controls
+// Subjects=17
+9.03	13.75	61.59
+-1.57	11.38	73.06
+-49.85	16.78	50.86
+-34.83	-22.14	41.68
+-57.76	19.94	-3.96
+-54.33	-12.94	11.02
+-8.3	19	34.58
+52.76	2.24	46.44
+-54.05	-1.23	52.42
+-64.66	-54.3	41.38
+-64.65	-42.07	48.16
+-60.76	-35.07	0.69
+49.3	-31.24	-.9
+-57.91	21.65	-23.06
+44.95	-58.35	-20.88
+
+// Mitterschiffthaler M T, 2007: Conjunction Analysis: Main Effect of Happy 
+// Subjects=16
+-57.05	-34.08	8.72
+50.8	-15.38	-3.93
+-20.06	40.19	43.33
+-9.73	43.29	6.98
+-2.71	-7.37	38.77
+-2.64	-24.39	40.45
+-11.76	17.96	11.77
+9.58	5.12	-11.98
+-13.87	-47.31	2.57
+-6.61	-19.58	69.18
+-11.12	-45.07	49.37
+
+// Mitterschiffthaler M T, 2007: Conjunction Analysis: Main Effect of Sad 
+// Subjects=16
+-41.93	-31.9	8.25
+53.03	-19.22	0.89
+65.81	7.86	-8.73
+22.43	-16.5	-25.75
+-13.4	-28.48	43.28
+-11.21	22.12	56.17
+-14.1	-55.56	-16.78
+
+// Mitterschiffthaler M T, 2007: Conjunction Analysis: Main Effect of Neutral 
+// Subjects=16
+-59.18	-36.01	11.19
+-37.48	-28.72	19.06
+
+// Andics A, 2014: Sound versus silence
+// Subjects=22
+-44	-26	2
+-58	-40	6
+48	-28	6
+66	-24	2
+-38	28	10
+-50	16	4
+48	16	24
+50	28	6
+10	-32	-14
+
+// Schneider K, 2013: E > N, Controls
+// Subjects=28
+-3	-13	40
+54	29	-5
+63	11	25
+42	-1	43
+-3	53	31
+0	-28	-5
+-18	-97	13
+
+// Schulte-Ruther M, 2011: Self vs. Control, CS
+// Subjects=14
+-2	56	8
+-4	56	26
+8	56	28
+-4	54	-16
+8	58	-6
+-40	30	-14
+-52	30	-4
+12	-50	30
+-6	-52	28
+-4	-64	32
+-52	-58	24
+54	-36	-4
+-58	-40	-6
+34	-76	-36
+
+// Schulte-Ruther M, 2011: Conjunction: (Self vs. Control) and (Other vs. 
+// Subjects=14
+-6	56	-14
+8	58	-6
+12	-50	30
+-2	-48	28
+-58	-62	14
+54	-36	-4
+
+// Denkova E, 2015: Brain regions common to Context and Emotion conditions
+// Subjects=17
+-45.9	21.06	46.78
+60.43	31.01	-1.96
+-51.17	35.88	-24.07
+-46.86	18.25	-29.13
+48.24	31.97	-25.38
+43.99	29.18	-20.55
+39.56	9.74	-33.12
+-6.82	28.07	62.23
+-7.42	64.1	22.81
+0.78	58.58	-13.76
+5.85	45.6	42.35
+-62.53	-35.78	2.26
+-58.66	-10.71	-28.3
+-54.38	-2.19	-29.22
+64.52	-5.71	-27.53
+22.74	-40.46	-6.57
+-50.14	-56.03	37.67
+44.93	-55.69	36.02
+10.22	-83.1	20.27
+10.07	-72.23	10.23
+10.35	-42.74	38.69
+-7.14	-79.32	15.71
+-6.89	-51.2	40.94
+1.34	-42.28	9.66
+
+// Denkova E, 2015: [Context vs Sematic memory (SM)] > [Emotion vs SM] 
+// Subjects=17
+9.27	48.75	-27.5
+53.73	-66.53	45.9
+-33.44	-40.66	-5.6
+
+// Denkova E, 2015: [Emotion vs SM] > [Context vs SM] inclusively masked with 
+// Subjects=17
+-50.18	12.64	48.81
+-33.72	20.71	-15.03
+44.06	34.06	-14.31
+1.61	38.56	47.6
+14.57	38.6	47.37
+-16.38	64.98	-1.77
+-53.94	-27.35	0.16
+-41.93	-39.55	6.77
+60.65	-39.6	0.54
+-20.57	-20.51	-8.93
+-20.73	-5.29	-18.28
+2.1	-59.52	66.26
+-2.95	-93.42	2.47
+-19.97	-82.79	25.24
+27.48	-65.71	21.62
+-3.38	0.72	-12.44
+18.46	-48.88	-4.55
+
+// Denkova E, 2015: Positive correlation between Emotion condition and Emotion 
+// Subjects=17
+-33.76	20.4	-18.36
+1.84	23.85	62.5
+-11.39	-83.18	20.65
+31.62	-81.29	4.04
+6.01	-60.39	33.78
+
+// Morita T, 2016: Self > Others, Healthy Controls (HC)
+// Subjects=18
+48	10	28
+42	32	10
+36	24	0
+8	12	60
+4	2	34
+0	36	6
+-32	16	8
+40	-66	-12
+42	-54	-12
+36	-82	6
+2	-16	-18
+26	-30	-12
+8	-18	2
+
+// Ishitobi M, 2011: Whole face > Control, Healthy Controls
+// Subjects=24
+20	-2	-2
+-2	-8	-1
+52	18	28
+-3	4	30
+4	16	54
+44	-4	-2
+-4	-5	-2
+42	-8	-1
+-3	-8	-1
+38	-5	44
+-3	-5	44
+
+// Ishitobi M, 2011: Upper face > Control, Healthy Controls
+// Subjects=24
+40	8	30
+-3	12	28
+2	24	56
+48	-5	-1
+-4	-6	-8
+32	-8	-8
+-3	-8	-1
+30	-6	46
+-3	-5	50
+
+// Ishitobi M, 2011: Lower face > Control, Healthy Controls
+// Subjects=24
+54	20	44
+-4	26	20
+2	16	60
+44	-4	-2
+-4	-6	-1
+42	-8	-1
+-4	-8	-1
+32	-6	46
+-3	-5	42
+
+// Rudie J D, 2012: Positive correlation between activity in the amygdala and 
+// Subjects=25
+30	-8	-16
+-16	-10	-16
+26	-14	-18
+-20	-18	-18
+30	-14	-8
+-32	-12	-10
+22	-10	-6
+-16	-8	-8
+6	8	-4
+-8	10	-4
+24	-30	0
+-22	-34	-2
+4	-6	-4
+18	-16	-22
+-16	-14	-24
+34	8	-16
+-38	0	-14
+4	60	-14
+0	34	-18
+38	26	-14
+-44	20	-18
+54	10	-34
+-32	26	-34
+28	4	-38
+-34	-50	-12
+66	-12	-22
+48	-46	-26
+-48	-44	-26
+26	-48	-12
+-16	-70	-10
+40	-68	-10
+-32	-78	2
+8	-98	0
+-14	-98	16
+-4	-52	-18
+
+// Rudie J D, 2012: Positive correlation between activity in pars opercularis 
+// Subjects=25
+58	16	14
+-56	10	18
+50	4	42
+-52	4	42
+46	44	-4
+-44	40	18
+38	40	28
+-26	-2	54
+38	20	-2
+-32	22	2
+4	14	50
+10	18	30
+64	-32	30
+-50	-42	52
+26	-52	50
+-30	-48	42
+34	-80	24
+-36	-88	20
+16	-78	54
+-22	-60	46
+54	-44	10
+48	-24	-6
+44	-50	-10
+16	42	-18
+18	0	14
+20	2	8
+-18	-2	6
+
+// Hart S J, 2010: Aversive stars > Neutral stars
+// Subjects=14
+22.19	16.16	-32.44
+-5.91	-44.26	42.09
+53.51	-50.56	-17.17
+43.88	-79.31	-30.26
+-36.97	-88.09	14.9
+39.25	9.32	-39.87
+-35.04	29.58	36.23
+4.9	-42.91	58.58
+
+// Hart S J, 2010: Neutral stars > Aversive stars
+// Subjects=14
+-28.67	-53.2	-2.62
+59.74	14.67	-13.79
+
+// Hart S J, 2010: Neutral congruent > Aversive congruent
+// Subjects=14
+7.59	58.22	31.11
+-50.06	-12.91	10.97
+-57.38	-39.85	21.12
+31.51	-19.75	52.99
+-39.13	-88.27	12.71
+-32.96	-56.74	-6.74
+14.55	-83.18	46.23
+9.95	-81.09	4.85
+26.83	-56.89	-14.1
+
+// Hart S J, 2010: Aversive incongruent > Neutral incongruent
+// Subjects=14
+-32.09	31.26	2.6
+-61.66	-53.08	15.59
+
+// Hart S J, 2010: Neutral incongruent > Aversive incongruent, Positive 
+// Subjects=14
+-60.71	21.43	29.4
+-29.07	31.6	-20.88
+-53.11	-37.71	20.89
+-6.9	-21.49	61.38
+-24.69	66.8	7.34
+-5.73	53.09	-34.1
+5.58	27.71	35.92
+-51.18	-9.03	6.2
+68.66	-57.21	5.52
+-50.41	10.95	-24.48
+31.07	-61.61	-20.45
+-0.02	-17.84	-15.95
+
+// Mohanty A, 2005: Negative - Neutral, Healthy Controls
+// Subjects=17
+-53.75	-36.8	-25.12
+66.61	-8.2	-23.35
+60.15	34.71	-10.71
+-53.98	37.96	-10.26
+0.97	38.55	-8.4
+33.2	-99.58	5.31
+43.74	-84.11	15.28
+-57.85	-40.56	17.34
+62.32	38.59	17.87
+-32.72	25.19	19.35
+
+// Veroude K, 2013: Negative - Neutral, All Subjects
+// Subjects=74
+-39	-21	66
+-35	-25	54
+21	-56	-27
+7	-67	-24
+-7	-14	57
+
+// Veroude K, 2013: Negative - Neutral, Young adults > Late adolescents
+// Subjects=17
+-18	28	42
+-18	-60	24
+
+// Kédia G, 2008: Emotional > Neutral conditions, p<0.05
+// Subjects=29
+4	44	31
+12	23	62
+-59	-37	31
+
+// Kédia G, 2008: Emotional > Neutral conditions, p<0.001
+// Subjects=29
+-48	4	0
+
+// Kédia G, 2008: Other agent > Self agent
+// Subjects=29
+-4	51	20
+0	-56	36
+-48	-61	29
+
+// Kédia G, 2008: Interaction [(guilt + other-anger) - (self-anger + 
+// Subjects=29
+10	43	13
+6	1	7
+-22	4	-11
+-1	-62	32
+-50	-69	10
+52	-58	14
+6	39	37
+24	12	-21
+20	1	-14
+-15	-3	3
+-8	1	7
+-47	-69	21
+
+// Kédia G, 2008: Guilt > Self-anger
+// Subjects=29
+12	23	62
+0	-56	36
+59	-53	21
+-48	-57	21
+
+// Kédia G, 2008: Other-anger > Self-anger
+// Subjects=29
+-4	51	20
+0	-56	36
+51	-57	21
+-48	-57	25
+
+// Kédia G, 2008: Compassion > Self-anger, p<0.001
+// Subjects=29
+0	51	20
+48	-57	21
+
+// Kédia G, 2008: Compassion > Self-anger, p<0.05
+// Subjects=29
+0	-56	36
+-48	-57	25
+
+// Kédia G, 2008: Conjunction: (Guilt > Self-anger) + (Other-anger > 
+// Subjects=29
+0	51	20
+48	-57	21
+
+// Kédia G, 2008: Conjunction: (Guilt > Self-anger) + (Other-anger > 
+// Subjects=29
+0	-57	35
+-48	-57	25
+
+// Krach S, 2011: Common neural activations in response to vicarious 
+// Subjects=32
+-6	20	44
+-4	14	54
+-10	28	28
+-32	24	0
+-36	22	-16
+-48	30	10
+-4	-6	6
+30	-68	-28
+-2	-20	-22
+
+// Melchers M, 2017: Vicarious embarrassment films > Control films
+// Subjects=60
+-51	-73	-2
+48	-58	1
+-60	-28	31
+63	-21	37
+48	35	7
+-3	47	-23
+
+// Melchers M, 2017: Control films > Vicarious Embarrassment films
+// Subjects=60
+-27	-49	-8
+27	-46	-8
+-36	82	37
+42	-76	34
+
+// Michl P, 2014: shame > neutral
+// Subjects=14
+-27.33	-87.77	18.1
+4.69	-84.66	14.13
+7.58	-74.78	-23.53
+-5.19	-34.74	0.02
+-43.99	17.68	-20.66
+-7.99	9.05	71.1
+39.35	21.35	-21.92
+-56.6	23.08	9.14
+4.55	49	49.76
+1.11	70.7	27.91
+
+// Michl P, 2014: guilt > neutral
+// Subjects=14
+-1.69	-93.16	14.92
+-11.48	-100.56	-11.12
+-14.67	-92.66	-5.05
+4.63	-80.95	7.13
+4.59	-79.09	3.63
+-24.29	-97.21	-7.9
+26.74	-82.04	-36.53
+-31.99	-81.88	-29.17
+-56.3	-56.22	15.79
+-53.34	-19.16	-.73
+-62.89	-35.08	0.71
+-63.06	-10.48	-11.39
+58.67	5.86	-17.5
+-46.93	12.65	11.02
+-56.51	20.68	19.38
+-46.56	1.19	55.47
+-53.35	7.07	8.22
+-5.19	61.91	38.75
+20.48	54.67	39.07
+
+// Michl P, 2014: shame > guilt
+// Subjects=14
+1.17	33.97	20.95
+4.66	-35.54	30.08
+-21.31	-39.03	-12.82
+10.89	-34.13	6.48
+13.79	-7.61	-22.55
+23.42	58.46	5.26
+33	18.65	-14.93
+
+// Michl P, 2014: guilt > shame
+// Subjects=14
+36.42	-58.23	-18.56
+-64	-32.17	-2.86
+18.26	-5.53	3.99
+
+// Michl P, 2014: Males: shame > guilt
+// Subjects=7
+53.5	-61.56	-21.82
+-11.7	-35.8	-13.2
+-37.42	-30.13	-20.07
+-2.04	33.96	20.99
+7.3	39.9	-13.07
+20.41	34.18	21.83
+
+// Michl P, 2014: Females: guilt > shame
+// Subjects=7
+-40.28	-52.95	15.33
+-62.93	-32.17	-2.88
+
+// Michl P, 2014: Males: guilt > shame
+// Subjects=14
+-30.76	-94.5	-13.63
+14.05	-84	-19.49
+29.92	-55.87	-28.72
+45.98	-42.32	-20.01
+0.93	-17.98	-31.57
+17.17	-5.79	0.68
+-8.7	67.53	1.52
+7.41	65.22	11.57
+
+// Roth L, 2014: pride > shame/guilt
+// Subjects=25
+-18.79	23.1	61.12
+-3.36	59.81	-2.35
+-2.81	-33.3	32.21
+32.45	-26.48	34.58
+-57.67	-47.25	-19.52
+-34.74	-68.38	35.52
+-9.37	-8.47	23.52
+-22.38	-20.38	-5.45
+
+// Roth L, 2014: pride > neutral
+// Subjects=25
+-9.12	0.7	59.54
+-41.16	-2.66	60.19
+-41.62	9.08	5.69
+-18.92	-53.97	14.06
+-9.17	-69	25.24
+-16.04	-1.31	-7.12
+-28.54	-17.85	27.87
+
+// Roth L, 2014: shame/guilt > neutral
+// Subjects=25
+-5.96	6.81	55.65
+-19.25	54.66	14.99
+-37.99	0.27	56.57
+-60.9	21.66	4.85
+51.3	15.73	0.72
+-18.95	-51.05	10.47
+-9.51	-59.4	-15.71
+-19.24	5.28	-4.29
+-22.26	3.88	19.28
+
+// Roth L, 2014: conjunction analysis (shame/guilt > neutral) & (pride > 
+// Subjects=25
+-6	9.72	52.06
+-12.51	-60.53	11.19
+-44.81	12.49	8.78
+-37.96	-2.65	60.16
+
+// Takahashi H, 2017: Guilt - Neutral
+// Subjects=19
+-6	-95	12
+2	-85	6
+-16	49	9
+4	57	16
+-44	-61	20
+
+// Takahashi H, 2017: Embarassment - Neutral
+// Subjects=19
+20	-70	0
+-8	50	25
+-42	-59	18
+-51	-31	-7
+-53	1	-24
+48	-7	-27
+-44	31	-7
+-34	-18	-18
+-2	-89	4
+2	59	17
+
+// Takahashi H, 2017: (Guilt > Neutral) + (Embarrassment > Neutral)
+// Subjects=19
+-12	-77	6
+2	-85	6
+-10	36	52
+4	57	16
+-44	-61	20
+
+// Takahashi H, 2017: Embarrassment - Guilt
+// Subjects=19
+12	-83	8
+38	-68	-5
+-10	-62	-2
+-8	-80	1
+42	-3	-27
+32	-18	-13
+-20	-14	-9
+
+// Takahashi H, 2017: Guilt - Embarrassment
+// Subjects=19
+-16	49	14
+
+// Wagner U, 2011: guilt > shame + sadness
+// Subjects=18
+36	32	-4
+-10	42	34
+
+// Wagner U, 2011: common network activations for guilt/shame/sadness (guilt > 
+// Subjects=18
+0	-62	30
+-16	58	24
+-36	12	-22
+-48	-60	26
+-66	-14	-14
+42	6	-42
+-46	8	-40
+2	-84	-2
+0	-48	-6
+0	60	16
+
+// Wagner U, 2011: common network activations for guilt/shame/sadness (shame > 
+// Subjects=18
+0	-60	30
+-14	54	26
+-38	18	-20
+-52	-62	30
+-66	-16	-14
+44	2	-42
+-54	2	-30
+10	-80	-6
+-2	-48	-4
+2	64	22
+
+// Wagner U, 2011: common network activations for guilt/shame/sadness (sadness 
+// Subjects=18
+-4	-56	28
+0	62	18
+-30	16	-16
+-60	-58	28
+-56	-20	-14
+46	2	-38
+-48	-2	-28
+4	-78	-4
+-2	-48	2
+-16	62	24
+
+// Wagner U, 2011: common network activations for guilt/sadness (guilt > 
+// Subjects=18
+6	52	8
+38	-24	24
+54	-26	20
+52	-46	26
+56	-34	8
+-34	-32	-4
+-26	10	8
+
+// Wagner U, 2011: common network activations for guilt/sadness (sadness > 
+// Subjects=18
+14	48	14
+36	-24	24
+56	-20	14
+58	-36	20
+46	-26	2
+-32	-32	-8
+-28	12	12
+
+// Wagner U, 2011: guilt > neutral
+// Subjects=18
+34	26	-16
+0	50	34
+-14	-10	68
+24	14	40
+-34	10	38
+30	-44	-4
+30	0	12
+
+// Wagner U, 2011: sadness > neutral
+// Subjects=18
+-26	46	30
+-48	-4	50
+18	14	24
+-6	-2	68
+-46	-18	38
+-50	2	-14
+-42	-22	-26
+-26	-12	-28
+36	-32	-6
+38	-80	-10
+46	-74	-20
+-44	-70	-12
+10	-6	-2
+
+// Wagner U, 2011: guilt > shame
+// Subjects=18
+-10	44	36
+22	36	44
+10	38	14
+38	30	-4
+-38	24	4
+-34	6	-24
+-50	-4	-20
+24	-6	-12
+12	4	2
+-16	12	14
+-32	-10	-2
+-20	-4	8
+46	-56	-30
+
+// Wagner U, 2011: guilt > sadness
+// Subjects=18
+36	36	-2
+
+// Wagner U, 2011: sadness > guilt
+// Subjects=18
+34	18	58
+34	-62	30
+14	-100	6
+-28	-56	-28
+
+// Wagner U, 2011: shame > sadness
+// Subjects=18
+20	-16	68
+
+// Wagner U, 2011: sadness > shame
+// Subjects=18
+34	42	16
+14	38	16
+12	16	44
+-38	24	4
+48	-26	36
+30	-58	30
+14	-66	50
+-16	-66	52
+-50	-6	-12
+58	-56	-4
+-52	-58	20
+36	-14	-34
+-34	-14	-32
+-30	-30	-8
+24	-56	-26
+-30	-60	-28
+8	-6	-2
+-14	-10	-4
+
+// Barros-Loscertales A, 2010: Aversive > Neutral, Positive Correlations with 
+// Subjects=45
+36	-14	2
+
+// Barros-Loscertales A, 2010: Aversive > Neutral, Negative Correlations with 
+// Subjects=45
+50	12	38
+52	30	26
+-12	-88	14
+40	-58	42
+
+// Morita T, 2008: Self > Other
+// Subjects=19
+36	10	-4
+48	36	4
+-38	24	0
+52	6	26
+8	4	30
+48	-70	-8
+46	-52	-14
+24	-72	42
+-42	-74	-2
+
+// Morita T, 2014: Self > Other
+// Subjects=32
+34	-88	-8
+46	-60	-16
+24	-62	54
+50	10	34
+40	2	6
+48	42	10
+8	-32	-4
+6	-22	4
+-36	20	-6
+-42	32	12
+-36	-90	-10
+-44	-62	-14
+-48	-72	-16
+6	-4	30
+6	14	58
+-22	-68	52
+-20	-70	42
+
+// Morita T, 2014: Partner > Other
+// Subjects=32
+-8	-66	34
+-48	-58	26
+16	-62	32
+-2	40	4
+8	58	4
+-6	56	20
+44	20	24
+34	4	42
+-42	14	36
+-34	8	46
+38	-88	-14
+44	-58	-12
+28	-92	0
+
+// Jacob S, 2001: Androstadienone > Carrier (Activations)
+// Subjects=10
+36	42	34
+-8	2	-12
+28	16	-4
+28	16	-4
+16	-88	8
+
+// Moll J, 2007: Guilt > Neutral agency
+// Subjects=12
+-48.5	9.01	9.92
+3.11	69.72	1.91
+48.24	56	-21.03
+3.17	-11.92	-10.18
+69.39	-46.5	6.68
+-54.26	7.46	-17.85
+
+// Moll J, 2007: Embarrassment > Neutral agency
+// Subjects=12
+-57.93	-34.76	24.49
+-60.16	-46.23	16.7
+5.28	67.6	2.08
+-7.2	18.68	30.67
+-48.49	5.82	10.23
+
+// Moll J, 2007: Compassion > Neutral agency
+// Subjects=12
+-43.94	-61.37	14.56
+7.39	71.65	-.6
+24.66	-19.26	-21.03
+-11.35	-3.05	39.61
+13.95	3.32	-8.51
+-60.14	-43.89	18.71
+56.38	-51.21	2.88
+-26.9	55.01	18.44
+5.28	-12.22	-13.55
+-67.16	-15.13	-17.63
+46.37	-78.62	-25.61
+
+// Moll J, 2007: Disgust > Neutral agency
+// Subjects=12
+-50.36	-25.91	26.85
+-43.92	-32.79	21.82
+26.84	-5.97	-16.78
+-46.26	-60.4	2.18
+41.92	36.39	-12.26
+-9.29	15.9	35.46
+-1.04	34.92	8.79
+46.22	1.23	-21.18
+55.24	-59.39	-4.13
+
+// Moll J, 2007: Indignation self > Neutral agency
+// Subjects=12
+48.41	47.46	-8.99
+7.84	11.52	22.15
+31.03	-21.14	-29.92
+3.06	14.67	-12.81
+
+// Moll J, 2007: Indignation other > Neutral agency
+// Subjects=12
+5.51	35.46	14.22
+0.96	67.58	2.16
+24.77	-27.15	-13.53
+59.24	37.82	-9.34
+56.33	-66.94	-4.53
+
+// Paulus F M, 2015: Vicarious embarrassment ((Embarrassment WITH > Neutral) 
+// Subjects=32
+-3	14	55
+-6	-10	7
+-36	26	-2
+-6	56	22
+45	17	-29
+33	-61	-26
+-3	-22	-17
+-48	14	22
+12	11	10
+-39	-55	-26
+-30	-16	-8
+
+// Paulus F M, 2015: Vicarious Embarrassment (Parametric modulations)
+// Subjects=32
+51	2	46
+-30	23	7
+69	-37	22
+3	-1	61
+-54	-37	28
+51	-37	4
+33	26	7
+-9	23	28
+-51	-31	25
+
+// Paulus F M, 2015: Embarrassment WITH > Embarrassment FOR
+// Subjects=32
+-54	-58	16
+51	-49	7
+-15	-88	7
+66	-43	13
+
+// Paulus F M, 2015: Embarrassment FOR > Embarrassment WITH
+// Subjects=32
+-21	-7	-14
+
+// Berthoz S, 2002: Violation of social norms > Normal behaviour
+// Subjects=12
+-12	58	8
+-10	-18	66
+-44	6	44
+6	36	54
+-6	14	60
+-52	32	2
+-36	28	-22
+-50	-44	6
+56	8	-28
+-52	8	-38
+-8	-98	8
+18	-98	10
+-34	-74	-16
+-6	-28	-20
+-8	52	18
+10	54	24
+-6	32	54
+-20	-82	-10
+
+// Berthoz S, 2002: Embarrassing stories > Normal behaviour
+// Subjects=12
+4	54	36
+2	36	52
+-56	18	16
+-54	24	8
+-50	-38	-2
+52	-16	-16
+-54	2	-28
+48	8	-28
+-4	-80	-4
+-8	-102	6
+20	-96	10
+-48	12	46
+-42	26	-14
+-50	12	-24
+-30	-80	-12
+
+// Berthoz S, 2002: Violation of social norms > Embarrassing stories
+// Subjects=12
+-22	34	48
+-10	58	8
+-18	48	4
+0	0	40
+-32	-22	42
+-44	-32	52
+36	-6	-32
+12	-50	52
+-40	-72	32
+-24	24	60
+
+// Berthoz S, 2002: Embarrassing stories > Violation of social norms stories
+// Subjects=12
+58	-18	-18
+
+// Berthoz S, 2002: Commonalities of violation of social norms and embarassing 
+// Subjects=12
+-8	52	18
+-44	6	44
+-38	4	38
+6	38	52
+-4	40	52
+-4	18	62
+-52	32	2
+-56	24	16
+-46	24	-16
+-38	28	-12
+-50	-44	6
+-56	-34	0
+54	0	-28
+56	8	-28
+-52	8	-38
+18	-98	10
+-8	-98	8
+-20	-82	-10
+8	-90	6
+-36	-84	-16
+
+// Palm M E, 2011: Healthy Controls: Fearful faces > Neutral faces
+// Subjects=16
+46.21	38.43	-13.66
+-47.83	34.39	-17.26
+
+// Palm M E, 2011: Healthy Controls: Angry faces > Neutral faces
+// Subjects=16
+46.09	26.55	-25.93
+-47.69	25.64	-7.43
+
+// Palm M E, 2011: Healthy Controls: Happy faces > Neutral faces
+// Subjects=16
+4.86	14.55	43.2
+39.81	61.99	-2.43
+-34.47	48.39	16.99
+-8.36	24.64	25.61
+46.29	12.69	-13.35
+-41.13	-8.78	-8.62
+36.5	-4.23	-21.6
+-31.47	-9.27	-14.34
+
+// Aue T, 2018: Expected spiders > Expected birds, Controls
+// Subjects=19
+-15	-91	-8
+
+// Aue T, 2018: Expected birds > Expected spiders, Controls
+// Subjects=19
+42	29	13
+
+// Piefke M, 2005: Increased Brain Activity Common to All Memory Conditions 
+// Subjects=10
+-10	62	28
+-50	32	-10
+40	18	20
+-46	22	20
+-42	6	52
+-2	12	56
+54	16	-32
+-52	14	-34
+60	0	-24
+-56	2	-24
+-24	-20	-18
+-30	-54	48
+-6	-56	4
+36	-64	-24
+-28	-66	-18
+46	-82	2
+-42	-78	4
+14	-82	-42
+
